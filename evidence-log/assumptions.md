@@ -30,3 +30,17 @@ Users will trust and use AI-generated opportunity recommendations as a first ste
 
 ## Why this is the riskiest
 If users do not trust the recommendations, the whole product loses value before we even reach the application step.
+
+## v0.1 (Session 8): reprioritisation
+
+Evidence: interview-evidence.md (1 real student), jtbd.md, personas/.
+
+| Assumption | v0 | v0.1 status |
+|---|---|---|
+| Users will trust and use AI-generated opportunity recommendations as a first step in their decision process | Riskiest | Still the riskiest. Unchanged. Not yet tested with the prototype |
+| Users will trust recommendations more if the AI explains the reason behind each match | Product value | CHALLENGED by interview 01: trust was linked to accuracy (no unsuitable jobs), not explanations |
+| New: trust depends on showing no job that does not fit the student's profile or interests | Not listed | NEW, from interview 01 (n=1). Must be tested |
+| Students currently spend significant time comparing opportunities manually | User problem | PARTLY SUPPORTED: hundreds of applications (interview 01) |
+| Users are willing to upload CV/profile information | Adoption | Still UNKNOWN, not asked |
+
+The riskiest assumption stays exactly as written. What changed is what we believe makes students trust the recommendations.

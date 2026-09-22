@@ -28,3 +28,25 @@ Fewer than 70% say they would use it, or users say they do not trust the recomme
 ## Decision rule
 If at least 70% of users respond positively, continue developing the recommendation concept.
 If not, narrow the scope or redesign the trust/explanation mechanism before building more.
+
+## v0.1 (Session 8): revision
+
+**Why revised:** interview 01 (interview-evidence.md) linked trust to never seeing an unsuitable job, so the test now also measures match accuracy.
+
+**Riskiest assumption:** unchanged.
+
+**Hypothesis v0.1:** If we show students a shortlist where every job or internship fits their stated profile and interests, then most of them will use it as a first filter.
+
+**Smallest falsifiable experiment:** the same rough prototype with 5 to 8 students aged 19 to 24. Each student enters preferences, receives 3 to 5 recommendations and marks each one as "fits me" or "does not fit me".
+
+**Added question:** "How many unsuitable jobs would it take before you stopped trusting it?"
+
+**Success signal:** at least 70% say they would use it as a first filter (unchanged), and most recommendations are marked "fits me".
+
+**Failure signal:** fewer than 70% would use it, or students reject recommendations as unsuitable and say this breaks their trust.
+
+**Decision rule (pre-committed):**
+- If both success signals hold, continue developing the recommendation concept.
+- If first-filter use is high but many matches are rejected, improve matching accuracy before building more.
+- If students trust accurate matches but still ask for reasons, add the explanation layer.
+- Otherwise, narrow the scope or redesign the trust mechanism.
