@@ -38,7 +38,7 @@ Our channels reach IE students and our own networks first. That over-represents 
 
 | Step | Target date | Owner |
 |---|---|---|
-| Survey live and sent to the class Teams chat | [date] | Linda |
+| Survey live and sent to the class Teams chat | Live since 2026-10-01, link in survey.md | Linda |
 | 7 interviews filmed | [date] | [team] |
 | Results coded and added to interview-evidence.md | [date] | [team] |
 | Funnel and ERRC updated with the survey numbers | [date] | [team] |
