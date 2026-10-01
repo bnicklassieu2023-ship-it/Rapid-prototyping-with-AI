@@ -40,3 +40,18 @@ Start here: [evidence-log/venture-skeleton-v0.1.md](evidence-log/venture-skeleto
 | evidence-log/experiment-card.md | First experiment card, 70% decision rule |
 | evidence-log/ai-usage-log.md | Original AI use notes (ChatGPT) |
 | prototype/ | Prototype folder |
+
+## Group Project I (Sessions 10 to 11): market research and Blue Ocean
+
+| File | Status | What it contains |
+|---|---|---|
+| evidence-log/market-research.md | NEW | Four-category alternatives map, competitive factors, Fermi funnel with sourced anchors, what improved and dropped since the last research, opportunity stress test |
+| evidence-log/ERRC.md | NEW, DRAFT | Eliminate, Reduce, Raise, Create grid with cost and buyer-value effects, evidence status and validation points |
+| evidence-log/opportunity-v02.md | NEW | Successor to opportunity.md with the alternatives, the strongest alternative and the value innovation hypothesis |
+| evidence-log/press-release.md | NEW | Lean Working Backwards opener |
+| evidence-log/recruitment.md | NEW | Who we test with, channels, consent, declared sample bias |
+| evidence-log/survey.md | NEW, NOT YET LAUNCHED | Survey instrument and the decision rules we set before seeing any answers |
+| downloads/ai-prompt-ERRC.md | ADDED | The course Blue Ocean helper prompt |
+| AGENTS.md | ADDED at root | Course project instructions, as the required structure expects |
+
+Critical test still open: 7 filmed student interviews and the survey. Nothing in the ERRC grid or the funnel is validated until those results are in.
