@@ -30,34 +30,38 @@ How might we help students quickly discover relevant opportunities and understan
 - **Insight refined:** a shortlist only earns trust if it shows no unsuitable jobs (interview 01, n=1).
 - **Still unsupported:** how many hours students spend searching, which trigger starts the search, and whether students will share personal information.
 
-## v02 (Group Project I): market and strategy review
+## v02 (Group Project I): market and strategy review, United States
 
-Successor to opportunity.md. The wording above is unchanged. Everything below was added after the market scan and the ERRC draft, and still needs the team's confirmation.
+Successor to opportunity.md. The wording above is unchanged. Everything below was added after the US market scan and the ERRC draft, and still needs the team's confirmation.
+
+### Scope decision
+
+The market is the United States. Spain was dropped on 1 October 2026. Target user: US undergraduates looking for a job or an internship.
 
 ### Current alternatives, four categories
 
 | Category | Alternative | Evidence basis |
 |---|---|---|
-| Direct competitors | Jobright.ai, LinkedIn, Handshake, JobTeaser, InfoJobs | Vendor and product pages, accessed October 2026 |
-| Indirect substitutes | ChatGPT and other chatbots, auto-apply copilots, university careers office | Prospects 2026, HEPI 2026. Not evidenced in our segment |
-| Manual workarounds | Scrolling listings, mass applying, tracking in a spreadsheet | Interview 01 (n=1), NACE 2025 |
-| Doing nothing | Keep applying the same way, or delay the search | Hypothesis. Our JTBD trigger is still an open gap |
+| Direct competitors | Handshake, LinkedIn, Indeed, Jobright.ai | Vendor and product pages, accessed October 2026 |
+| Indirect substitutes | ChatGPT and other chatbots, auto-apply copilots, the campus careers office | NACE 2025: 33% of graduating seniors used AI in the job search |
+| Manual workarounds | Mass applying, spreadsheets, scrolling listings | Interview 01 (n=1), NACE 2025 (about 30 applications per role) |
+| Doing nothing | Keep applying the same way, or wait until senior year | Hypothesis. Our JTBD trigger is still an open gap |
 
 ### Strongest current alternative
 
-The manual routine of applying at high volume on LinkedIn and InfoJobs. Basis: interview 01 plus published application-volume research. Limitation: one interview.
+Mass applying inside Handshake and LinkedIn. Basis: interview 01 plus published application-volume research. Limitation: one interview, conducted in Europe.
 
 ### Competitive factors and market conventions
 
 Listing volume, employer-paid ranking, explanation of fit, price to the student, how much personal data is demanded before any value, and no alternative offering a forward-looking view of which entry-level roles are shrinking. See evidence-log/market-research.md.
 
-### Value innovation hypothesis
+### Market size
 
-Compete on showing only roles that fit, with the reason stated, paid by universities rather than by employers buying placement, plus a view of which entry-level roles are disappearing. See evidence-log/ERRC.md.
+Without partnerships, about 1,800 reachable students in year one from 19.4M US postsecondary students. With university partnerships, about 2,160 active students in year one rising to about 36,000 by year three. Both funnels, with their labels and sensitivity bands, are in market-research.md.
 
 ### Open evidence gaps
 
-- What our own students actually use today, and what makes them switch
+- What US students actually use today, and what would make them switch from Handshake
 - How many unsuitable matches break trust
-- Whether anyone other than employers will pay
+- Whether a careers office will adopt a second tool, and whether anyone other than employers will pay
 - Whether the entry-level shift monitor is wanted, and whether posting data supports it

@@ -55,3 +55,7 @@ Start here: [evidence-log/venture-skeleton-v0.1.md](evidence-log/venture-skeleto
 | AGENTS.md | ADDED at root | Course project instructions, as the required structure expects |
 
 Critical test still open: 7 filmed student interviews and the survey. Nothing in the ERRC grid or the funnel is validated until those results are in.
+
+## Market scope
+
+As of 1 October 2026 the market is the **United States**. Spain was dropped. The analysis carries two funnels: without university partnerships (about 1,800 students in year one) and with partnerships (about 36,000 active students by year three). Both are in [evidence-log/market-research.md](evidence-log/market-research.md), with every filter labelled KNOWN, SOURCE, PROXY or ASSUME and a low, base and high band.

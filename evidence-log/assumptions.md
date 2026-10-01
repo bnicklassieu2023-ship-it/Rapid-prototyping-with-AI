@@ -44,3 +44,17 @@ Evidence: interview-evidence.md (1 real student), jtbd.md, personas/.
 | Users are willing to upload CV/profile information | Adoption | Still UNKNOWN, not asked |
 
 The riskiest assumption stays exactly as written. What changed is what we believe makes students trust the recommendations.
+
+## v0.2 (Group Project I): market assumptions
+
+Added 1 October 2026 with the move to the United States. These are assumptions, not findings.
+
+| Assumption | Status | How we would test it |
+|---|---|---|
+| The United States is the right first market for us | Team decision, untested | Compare switching and channel evidence between US and European respondents |
+| Spanish survey respondents behave closely enough to US students to inform US decisions | Team decision, explicitly declared as a proxy | Send the survey to US students and compare the two groups |
+| 40% of US undergraduates look for a job or internship in a given year | ASSUME, used in both funnels | Survey Q3 and Q4 |
+| 40% would try a new platform rather than stay with Handshake or LinkedIn | ASSUME, the tightest demand filter | Survey Q6, plus the prototype test |
+| A US careers office will adopt a second tool alongside Handshake | No evidence at all. The whole partnership funnel rests on it | Two careers-office interviews |
+| A university would pay about 18,000 dollars a year for a licence | ASSUME, no public pricing exists for the incumbent | Ask in the careers-office interviews |
+| Students want to be told which entry-level roles are shrinking | ASSUME, our Create row | Survey Q10 |
