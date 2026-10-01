@@ -6,6 +6,23 @@
 
 ---
 
+## 0. Why we moved from Europe to the United States
+
+**Status of this decision:** a team decision, shaped by discussions in class. The reasoning below is our judgement plus supporting context, not validated market evidence.
+
+| Reason | What we mean | Evidence status |
+|---|---|---|
+| Users are more open to new AI providers | US students appear readier to try an unfamiliar AI tool, so adoption should cost us less persuasion than in Europe | TEAM JUDGEMENT, with one supporting indicator: 33% of US graduating seniors used AI in their job search (NACE 2025), against about 18% of UK students and graduates using a chatbot for careers advice (Prospects 2026). The two surveys ask different questions of different populations, so this is directional only |
+| Lighter regulatory load for a small team | In the EU, the AI Act brings conformity assessment, technical documentation, database registration, an authorised representative for non-EU providers and human-oversight duties. Most provisions apply from 2 August 2026, with high-risk deadlines proposed to move to December 2027 and sector obligations to August 2028, subject to Council agreement. The US has no single equivalent federal statute; rules are sector and state level | SUPPORTED for the EU timeline. The comparison with the US is our reading and should be checked before we claim it on stage |
+| Bigger single market in one language | 19.4M US postsecondary students under one regulatory regime, versus 27 member states with different labour markets, languages and job boards | SUPPORTED by enrolment data; the implied cost saving is our inference |
+| Clearer incumbent to position against | Handshake sits inside US careers offices and is funded by employers, which is exactly the convention our ERRC grid eliminates | SUPPORTED that the incumbent exists; our ability to displace it is untested |
+
+**What we gave up by moving:** our only real-user evidence so far was gathered in Europe, and our survey respondents are mostly Spanish students. The team decided to treat them as a proxy for US behaviour. That is a declared assumption, recorded in assumptions.md, and the honest counter-argument is that regulation and openness to AI tools may change behaviour in exactly the ways we are claiming.
+
+**What would make us reconsider:** if US respondents turn out to be no more willing to try a new tool than European ones, the main reason for the move disappears, and the EU's larger regulatory burden alone would not justify the harder channel fight against Handshake.
+
+---
+
 ## 1. Fermi estimate before any research
 
 How many US undergraduates are applying for an internship or a job this month?

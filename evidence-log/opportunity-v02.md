@@ -36,7 +36,7 @@ Successor to opportunity.md. The wording above is unchanged. Everything below wa
 
 ### Scope decision
 
-The market is the United States. Spain was dropped on 1 October 2026. Target user: US undergraduates looking for a job or an internship.
+The market is the United States. Spain was dropped on 1 October 2026 after class discussions convinced us that US users are more open to new AI providers and that the regulatory load on a small team is lighter there than under the EU AI Act. The full reasoning and its evidence status are in market-research.md, section 0. Target user: US undergraduates looking for a job or an internship.
 
 ### Current alternatives, four categories
 
