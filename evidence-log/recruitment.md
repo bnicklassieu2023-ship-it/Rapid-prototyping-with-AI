@@ -42,3 +42,15 @@ Our channels reach IE students and our own networks first. That over-represents 
 | 7 interviews filmed | [date] | [team] |
 | Results coded and added to interview-evidence.md | [date] | [team] |
 | Funnel and ERRC updated with the survey numbers | [date] | [team] |
+
+## v0.2 (1 October 2026): market moved to the United States
+
+Our market is now the US, while our recruited participants are mostly students in Spain. The team decided to treat their behaviour as a proxy for US students. This is a declared assumption, not a finding, and we state it on the slide.
+
+| What we add | Why |
+|---|---|
+| Send the survey to US contacts: exchange students, friends studying in the US, student subreddits such as r/internships | Gives at least some US responses to compare against the European ones |
+| Two interviews with US careers-office staff | Tests the partnership funnel, which currently has no evidence at all |
+| Report European and US answers separately when both exist | Keeps the proxy assumption visible rather than hidden in an average |
+
+The survey question about platforms still lists InfoJobs, because the form went live before the market changed. We keep it and read it as a European-sample marker rather than editing responses after the fact.

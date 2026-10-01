@@ -1,10 +1,10 @@
 # Venture Skeleton v0.1
 
-**Status:** Updated from v0 after persona research and 1 real-user interview. Still provisional.
+**Status:** Updated from v0 after persona research and 1 real-user interview, then rebased on the United States market for Group Project I. Still provisional.
 
 | Field | v0.1 | Changed? | Source |
 |---|---|---|---|
-| Opportunity | Students aged 19 to 24 looking for jobs and internships apply at high volume and still struggle to find openings that really fit | Refined (target narrowed; first real-user signal) | opportunity.md, interview-evidence.md |
+| Opportunity | US undergraduates looking for jobs and internships apply at high volume and still struggle to find openings that really fit | Refined twice: target narrowed, then market set to the United States on 1 October 2026 | opportunity.md, opportunity-v02.md, interview-evidence.md |
 | Product Goal | Help students and recent graduates reduce time and uncertainty when identifying the right job or university opportunities | Kept | goals.md |
 | Jobs to Be Done | Find openings that really fit their profile and interests so applications turn into interviews and offers. Trigger still unknown | Refined | jtbd.md |
 | Personas | The Mass Applier, The Sceptic, The Starter (selected from 6 drafts). Proto-personas, checked against 1 interview | New in v0.1 | personas/ |
@@ -28,3 +28,12 @@
 - Whether The Starter Persona exists as described.
 
 Test access: 5 to 8 students aged 19 to 24 from our network. AI traceability: ai-usage-log.md
+
+## Market size (added for Group Project I)
+
+| Route | Year one | Year three | Source |
+|---|---|---|---|
+| Without university partnerships | about 1,800 students | not modelled | market-research.md, Funnel A |
+| With university partnerships | about 2,160 active students across 3 pilot campuses | about 36,000 active students across 50 campuses | market-research.md, Funnel B |
+
+Starting market: 19.4M US postsecondary students, of whom 16.2M are undergraduates. Every filter below the first two is an assumption or a proxy, and the partnership figures are team planning numbers.
