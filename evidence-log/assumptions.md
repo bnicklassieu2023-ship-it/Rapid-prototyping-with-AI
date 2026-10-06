@@ -33,7 +33,7 @@ If users do not trust the recommendations, the whole product loses value before 
 
 ## v0.1 (Session 8): reprioritisation
 
-Evidence: interview-evidence.md (1 real student), jtbd.md, personas/.
+Evidence: user-feedback.md (1 real student), jtbd.md, personas/.
 
 | Assumption | v0 | v0.1 status |
 |---|---|---|
