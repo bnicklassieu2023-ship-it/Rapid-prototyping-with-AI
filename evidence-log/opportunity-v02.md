@@ -26,7 +26,7 @@ How might we help students quickly discover relevant opportunities and understan
 ## v0.1 (Session 8): refinement
 
 - **Target user refined:** students aged 19 to 24 looking for jobs and internships. Master's programmes are parked for now, not rejected.
-- **Pain point, first real-user signal:** interview 01 (interview-evidence.md). The student has sent hundreds of applications through job websites and got interviews, but was never employed through any of them.
+- **Pain point, first real-user signal:** interview 01 (user-feedback.md). The student has sent hundreds of applications through job websites and got interviews, but was never employed through any of them.
 - **Insight refined:** a shortlist only earns trust if it shows no unsuitable jobs (interview 01, n=1).
 - **Still unsupported:** how many hours students spend searching, which trigger starts the search, and whether students will share personal information.
 

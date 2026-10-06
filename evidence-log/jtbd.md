@@ -1,6 +1,6 @@
 # Job to Be Done
 
-**Status:** Working hypothesis, v0.1. Partly checked with 1 real-user interview (see interview-evidence.md). Not validated.
+**Status:** Working hypothesis, v0.1. Partly checked with 1 real-user interview (see user-feedback.md). Not validated.
 
 ## Job to Be Done statement
 

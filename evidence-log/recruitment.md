@@ -40,7 +40,7 @@ Our channels reach IE students and our own networks first. That over-represents 
 |---|---|---|
 | Survey live and sent to the class Teams chat | Live since 2026-10-01, link in survey.md | Linda |
 | 7 interviews filmed | [date] | [team] |
-| Results coded and added to interview-evidence.md | [date] | [team] |
+| Results coded and added to user-feedback.md | [date] | [team] |
 | Funnel and ERRC updated with the survey numbers | [date] | [team] |
 
 ## v0.2 (1 October 2026): market moved to the United States

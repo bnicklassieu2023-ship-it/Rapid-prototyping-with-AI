@@ -31,7 +31,7 @@ If not, narrow the scope or redesign the trust/explanation mechanism before buil
 
 ## v0.1 (Session 8): revision
 
-**Why revised:** interview 01 (interview-evidence.md) linked trust to never seeing an unsuitable job, so the test now also measures match accuracy.
+**Why revised:** interview 01 (user-feedback.md) linked trust to never seeing an unsuitable job, so the test now also measures match accuracy.
 
 **Riskiest assumption:** unchanged.
 
@@ -50,3 +50,22 @@ If not, narrow the scope or redesign the trust/explanation mechanism before buil
 - If first-filter use is high but many matches are rejected, improve matching accuracy before building more.
 - If students trust accurate matches but still ask for reasons, add the explanation layer.
 - Otherwise, narrow the scope or redesign the trust mechanism.
+
+## Decision and next move (Group Project I)
+
+**Status: proposed on 6 October 2026. Dates and owners to be confirmed at the next team meeting.**
+
+| Test | Threshold that decides it | Owner | Date | Stop condition |
+|---|---|---|---|---|
+| Survey, live since 1 October | 50 responses, read against the rules in survey.md | Linda | Close 13 October 2026 | Under 20 responses by 13 October: report it as a weak sample instead of presenting percentages from a handful of people |
+| 7 filmed student interviews | 7 completed and coded into user-feedback.md, including the five questions the Persona rehearsal generated | Linda | 15 October 2026 | Fewer than 5 by that date: present what we have and name the gap on the slide |
+| 2 careers-office conversations | At least 1 agrees to a pilot | [team member] | 17 October 2026 | Both decline to add anything alongside Handshake: drop Funnel B from the presentation and say the channel assumption failed |
+| Shift-monitor spike | Complete, see spike-shift-monitor.md | Done | Completed 6 October 2026 | Not applicable |
+
+**The decision we are heading to:** does the evidence support continuing with the verified shortlist as Step 1 of the roadmap?
+
+- **Continue** if the survey supports accuracy over explanation and at least 5 interviews show high application volume with poor results.
+- **Narrow** if students want fewer bad matches but do not care about verification depth: keep the Reduce row, soften the Raise row, and take verification cost out of the plan.
+- **Stop or pivot the channel** if both careers offices decline: the product may survive, but the university route, and therefore the business model, does not.
+
+Set before any results arrived, in line with the course rule that the decision rule comes before the test.

@@ -57,3 +57,14 @@ The Eliminate row is sharper here than in Europe, because the dominant US player
 - Based on team judgement: the employer-influence rule, the university payer, the shift monitor, and every partnership figure in market-research.md.
 - Open contradiction: our Sceptic persona assumed explanations earn trust, while interview 01 named accuracy. Survey Q6 separates them.
 - Declared assumption: our survey respondents are mostly in Spain and the team treats their behaviour as a proxy for US students.
+
+## Rehearsal pressure test, 6 October 2026
+
+Our three Personas were run as synthetic Persona Agents against this grid (evidence-log/persona-agent-rehearsal.md). The session produced four challenges. None is evidence; all are now questions for the 7 real interviews.
+
+1. **Reduce** assumes fewer is better. The floor at which a short list reads as empty rather than focused is unknown.
+2. **Raise** is worth much less to an international student if work-authorisation status cannot be stated reliably, which the data spike lists as unproven.
+3. **Eliminate** is a cost and integrity move rather than a persuasion lever, so it should not lead the pitch.
+4. **Create** should lead with the adjacent roles a profile transfers to, not with a warning that a field is shrinking. This also matches what the spike says we can actually build.
+
+The synthetic session ended with all three Personas saying they would try the product, which is the known failure mode of synthetic Personas. Only the objections were kept.

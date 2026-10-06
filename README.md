@@ -1,61 +1,49 @@
 # Rapid-prototyping-with-AI
 Group project
 
-An AI assistant that helps students aged 19 to 24 find jobs and internships that really fit their profile and interests.
+An AI assistant that shows US undergraduates only the jobs and internships they actually fit, verified and explained, with no employer-paid placement.
 
 ## How to read this repository
 
-| Version | What it is | Link |
+This repository follows the three layers of truth from Session 12.
+
+| Layer | Folder | Question it answers |
 |---|---|---|
-| Previous submission (Venture Skeleton v0) | The repository exactly as it was before Session 8 | [Snapshot of previous work](https://github.com/bnicklassieu2023-ship-it/Rapid-prototyping-with-AI/tree/51cd27ef6b1ace0187765ed852899b2f6d191698) |
-| This submission (Session 8, Venture Skeleton v0.1) | Previous work plus the new work listed below | This page |
-| Only the changes | Every line added for Session 8, highlighted in green | [Compare previous vs. new](https://github.com/bnicklassieu2023-ship-it/Rapid-prototyping-with-AI/compare/51cd27ef6b1ace0187765ed852899b2f6d191698...main) |
+| Evidence | `evidence-log/` | What do we know, and what supports it? |
+| Constitution, v0.1 | `specs/` | What do we build, why, with what, and in what order? |
+| Feature specification | `specs/YYYY-MM-DD-<feature>/` | Not started. Session 13 |
+| Agent rules | `AGENTS.md`, `agents/persona-agent.md` | How agents work here, and the Persona Agent kept for rehearsal only |
 
-Inside our earlier files, every Session 8 addition sits under a heading that contains **v0.1 (Session 8)**. The earlier text above it is unchanged.
-
-## Session 8: what is new and what is updated
-
-Start here: [evidence-log/venture-skeleton-v0.1.md](evidence-log/venture-skeleton-v0.1.md)
-
-| File | Status | What it contains |
-|---|---|---|
-| evidence-log/venture-skeleton-v0.1.md | NEW | All Venture Skeleton fields at v0.1, what changed because of real-user evidence, what is still unknown |
-| evidence-log/interview-evidence.md | NEW | Our first real-user interview and what it changes |
-| evidence-log/jtbd.md | NEW | Current Jobs to Be Done with evidence status per element |
-| evidence-log/personas/ai-persona-01.md to 03.md | NEW | 3 selected critical Personas with a real-user check |
-| evidence-log/personas/drafts/persona-hypothesis-01.md to 06.md | NEW | 6 Persona hypotheses and why 3 were selected |
-| evidence-log/goals.md | UPDATED | New Sprint Goal (added below the original) |
-| evidence-log/experiment-card.md | UPDATED | Refined test and pre-committed decision rule |
-| evidence-log/assumptions.md | UPDATED | Reprioritisation; riskiest assumption kept word for word |
-| evidence-log/opportunity.md | UPDATED | Refined target user and first real-user signal |
-| evidence-log/ai-usage-log.md | UPDATED | Course six-column AI Usage Log table added below our original notes |
-
-## Previous work (Venture Skeleton v0, unchanged above the v0.1 headings)
-
-| File | Content |
-|---|---|
-| evidence-log/opportunity.md | Business idea, user, need, pain point, insight, open gaps |
-| evidence-log/assumptions.md | MECE assumption map and riskiest assumption |
-| evidence-log/goals.md | Product goal and first Sprint Goal |
-| evidence-log/experiment-card.md | First experiment card, 70% decision rule |
-| evidence-log/ai-usage-log.md | Original AI use notes (ChatGPT) |
-| prototype/ | Prototype folder |
-
-## Group Project I (Sessions 10 to 11): market research and Blue Ocean
-
-| File | Status | What it contains |
-|---|---|---|
-| evidence-log/market-research.md | NEW | Four-category alternatives map, competitive factors, Fermi funnel with sourced anchors, what improved and dropped since the last research, opportunity stress test |
-| evidence-log/ERRC.md | NEW, DRAFT | Eliminate, Reduce, Raise, Create grid with cost and buyer-value effects, evidence status and validation points |
-| evidence-log/opportunity-v02.md | NEW | Successor to opportunity.md with the alternatives, the strongest alternative and the value innovation hypothesis |
-| evidence-log/press-release.md | NEW | Lean Working Backwards opener |
-| evidence-log/recruitment.md | NEW | Who we test with, channels, consent, declared sample bias |
-| evidence-log/survey.md | NEW, NOT YET LAUNCHED | Survey instrument and the decision rules we set before seeing any answers |
-| downloads/ai-prompt-ERRC.md | ADDED | The course Blue Ocean helper prompt |
-| AGENTS.md | ADDED at root | Course project instructions, as the required structure expects |
-
-Critical test still open: 7 filmed student interviews and the survey. Nothing in the ERRC grid or the funnel is validated until those results are in.
+**Start here:** [specs/mission.md](specs/mission.md), then [evidence-log/venture-skeleton-v0.1.md](evidence-log/venture-skeleton-v0.1.md).
 
 ## Market scope
 
-As of 1 October 2026 the market is the **United States**. Spain was dropped. The analysis carries two funnels: without university partnerships (about 1,800 students in year one) and with partnerships (about 36,000 active students by year three). Both are in [evidence-log/market-research.md](evidence-log/market-research.md), with every filter labelled KNOWN, SOURCE, PROXY or ASSUME and a low, base and high band.
+The market is the **United States**, decided on 1 October 2026. Europe was dropped. The reasoning, with an evidence label on every line, is in [evidence-log/market-research.md](evidence-log/market-research.md), section 0. Two funnels: without university partnerships (about 1,800 students in year one) and with partnerships (about 36,000 active students by year three).
+
+## File index
+
+| File | What it holds |
+|---|---|
+| `specs/mission.md` | Purpose, promise, non-goals, open questions, every claim labelled |
+| `specs/tech-stack.md` | Layers, the AI role, dependencies. Carries open TBDs on purpose |
+| `specs/roadmap.md` | Step 1 is the thinnest end-to-end test of the riskiest assumption |
+| `evidence-log/opportunity.md`, `opportunity-v02.md` | Original opportunity, then the US market review |
+| `evidence-log/jtbd.md` | Current Job to Be Done with evidence status per element |
+| `evidence-log/personas/` | 3 selected personas and 6 drafts, US context |
+| `evidence-log/user-feedback.md` | Real-user evidence. Renamed from interview-evidence.md on 6 October 2026 |
+| `evidence-log/persona-agent-rehearsal.md` | Synthetic Persona session: what it challenged, and why none of it counts as validation |
+| `evidence-log/survey.md` | The live survey, its link and decision rules fixed in advance |
+| `evidence-log/recruitment.md` | Who we test with, channels, consent, declared sample bias |
+| `evidence-log/market-research.md` | Fermi estimate, claim table, alternatives map, both funnels, stress test |
+| `evidence-log/ERRC.md` | The Blue Ocean grid, confirmed 6 October 2026, with the rehearsal pressure test |
+| `evidence-log/spike-shift-monitor.md` | Technical spike on whether the shift monitor can be built with free data |
+| `evidence-log/careers-office-outreach.md` | Script and decision rules for testing the partnership assumption |
+| `evidence-log/experiment-card.md` | The test, thresholds, and the decision table with owners and stop conditions |
+| `evidence-log/press-release.md` | Working Backwards opener |
+| `evidence-log/assumptions.md`, `goals.md`, `ai-usage-log.md` | Assumption map, goals, AI use with student decisions |
+| `downloads/` | The 8 course helper prompts plus SKILL.md and AGENTS.md |
+| `prototype/` | Prototype v0 and its backup |
+
+## What is still open
+
+The critical test is unfinished: 7 filmed interviews, survey results and 2 careers-office conversations. Nothing in the ERRC grid or either funnel is validated until those land. The constitution has five unanswered tech-stack questions.

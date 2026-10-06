@@ -4,7 +4,7 @@
 
 | Field | v0.1 | Changed? | Source |
 |---|---|---|---|
-| Opportunity | US undergraduates looking for jobs and internships apply at high volume and still struggle to find openings that really fit | Refined twice: target narrowed, then market set to the United States on 1 October 2026 | opportunity.md, opportunity-v02.md, interview-evidence.md |
+| Opportunity | US undergraduates looking for jobs and internships apply at high volume and still struggle to find openings that really fit | Refined twice: target narrowed, then market set to the United States on 1 October 2026 | opportunity.md, opportunity-v02.md, user-feedback.md |
 | Product Goal | Help students and recent graduates reduce time and uncertainty when identifying the right job or university opportunities | Kept | goals.md |
 | Jobs to Be Done | Find openings that really fit their profile and interests so applications turn into interviews and offers. Trigger still unknown | Refined | jtbd.md |
 | Personas | The Mass Applier, The Sceptic, The Starter (selected from 6 drafts). Proto-personas, checked against 1 interview | New in v0.1 | personas/ |

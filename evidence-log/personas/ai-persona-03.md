@@ -1,6 +1,6 @@
 # Persona 3: Daniel, The Starter
 
-**Status:** Proto-persona, v0.2. Rebased on the United States on 1 October 2026 when the team changed market. Built from secondary research and our opportunity.md, checked against 1 real-user interview (interview-evidence.md). Not validated. The earlier European version of this persona is in the repository history.
+**Status:** Proto-persona, v0.2. Rebased on the United States on 1 October 2026 when the team changed market. Built from secondary research and our opportunity.md, checked against 1 real-user interview (user-feedback.md). Not validated. The earlier European version of this persona is in the repository history.
 
 ## Shared Job to Be Done
 
