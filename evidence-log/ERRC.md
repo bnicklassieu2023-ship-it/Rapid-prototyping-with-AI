@@ -1,6 +1,6 @@
 # Eliminate-Reduce-Raise-Create Grid
 
-**Status:** DRAFT value innovation hypothesis, rebased on the United States market on 1 October 2026. Prepared with AI support from our evidence log and market-research.md. Every row still needs the team's explicit confirmation before Group Project I.
+**Status:** Team-confirmed structure, 6 October 2026. The four strategic moves below were decided by the team. The evidence status of each move is unchanged: this is a value innovation hypothesis, not a validated blue ocean.
 
 **Target user:** US undergraduates looking for a job or an internship
 
@@ -14,16 +14,30 @@
 
 | Action | Strategic move | Assumption challenged | Cost effect | Buyer value effect | Evidence status | What must be verified |
 |---|---|---|---|---|---|---|
-| Eliminate | Employer-paid placement in what a student is shown | That early-career platforms are funded by the side that wants attention, which is how Handshake and LinkedIn monetise | Removes ad and employer-sales operations and the revenue that funds them. The cost moves to another payer, who must be found | Nothing a student sees is there because an employer paid for it | Plausible hypothesis | Whether students notice or care about paid ranking, and whether universities can replace that revenue |
-| Reduce | Breadth of listings shown, far below the market standard | That more postings mean a better service | Less indexing, storage and matching across roles we will never show | Less time lost on roles that were never realistic | Partly supported: interview 01 said trust starts when no unsuitable job is shown | How few results a student accepts before the service feels empty rather than focused |
-| Raise | Match accuracy, with a plain reason for each match and what does not fit | That explaining a match is enough, and accuracy is a background concern | More verification per listing, and a smaller catalogue | A shortlist a student can act on without re-checking every posting | Partly supported: interview 01 (n=1). Survey Q6 and Q7 measure it | How many unsuitable matches break trust, and whether reasons add trust on top of accuracy |
+| Eliminate | Employer influence over what a student is shown. Employers may still pay for other things, such as a verified employer profile or aggregate hiring analytics, but they can never buy position, visibility or ranking in a student's list | That early-career platforms are funded by letting the side that wants attention pay for it, which is how Handshake and LinkedIn monetise | Removes paid-placement revenue and the sales operation behind it. A smaller employer revenue line survives through products that do not touch ranking, so the gap the university payer must close is narrower than a total ban | Nothing a student sees is there because an employer paid for it, and we can say that without an asterisk | Plausible hypothesis | Whether students notice or care about paid ranking today, and whether non-ranking employer products plus university licences actually cover the gap |
+| Reduce | Breadth of listings shown, far below the market standard | That more postings mean a better service | Less indexing, storage and matching across roles we will never show | Less time lost on roles that were never realistic | Partly supported: interview 01 said trust starts when no unsuitable job is shown. Survey Q7 measures the tolerance | How few results a student accepts before the service feels empty rather than focused |
+| Raise | Verification depth per posting. Every listing we show is checked as real, still open, and explicit about work authorisation, and carries a plain reason why it fits this student and what does not fit | That a posting is worth showing simply because it exists in a feed, and that the student should do the checking | More verification work per listing, whether automated or manual, and a catalogue that grows more slowly | A student can act on the list without re-checking every posting, and international students can see immediately whether they are eligible | Partly supported: interview 01 (n=1). Survey Q6 measures what earns trust | Whether verification is the factor students value, how much it costs per listing at scale, and whether work-authorisation status can be read reliably from postings |
 | Create | An entry-level shift monitor: which entry-level roles in the student's field are shrinking as AI absorbs tasks, and which adjacent roles their profile already transfers to | That a careers tool only matches a student to today's openings | New data pipeline, occupation mapping and maintenance | A student can see where their field is heading before spending a year applying into it | Unsupported novelty, feasibility spike planned | Whether students want it, whether posting data supports a credible signal, and the cost of telling someone wrongly that their target role is shrinking |
+
+## How the four moves differ from each other
+
+- **Eliminate** sets employer influence over ranking to zero. It is about who the list serves.
+- **Reduce** lowers the number of postings shown, far below the standard. It is about quantity.
+- **Raise** increases what we know and state about each posting we do show. It is about depth per item.
+- **Create** adds a factor no alternative offers at all: a forward view of the student's field.
+
+Quantity down, depth up, influence gone, foresight added. No two rows describe the same benefit.
 
 ## Value innovation hypothesis
 
-We do not compete on how many jobs we can show. We compete on showing only roles that fit and being honest about why, funded by universities rather than by employers buying attention, and we add a forward-looking view of which entry-level roles are disappearing. Lower cost comes from a far smaller, verified catalogue and no employer-sales operation. Higher buyer value comes from accuracy, stated reasons and a view of the future that no current alternative offers.
+We do not compete on how many jobs we can show. We show far fewer, verify every one of them, and never let an employer buy a place in the list, and we add a view of which entry-level roles are disappearing. Lower cost comes from a far smaller catalogue and no paid-placement sales operation. Higher buyer value comes from a list that can be acted on without double-checking, and from foresight no current alternative offers.
 
 This remains a hypothesis, not a validated blue ocean or a confirmed business model.
+
+## Team decisions recorded on 6 October 2026
+
+1. **Reduce stays breadth, Raise becomes verification depth.** The earlier draft had Reduce (fewer listings) and Raise (match accuracy) describing one benefit twice, which the course's own ERRC guidance rules out. Depth per posting is a genuinely different factor from the number of postings.
+2. **Employers may pay, but never for visibility.** The team chose this over a total ban on employer money. It keeps a revenue option open while the claim "nothing here is paid placement" stays true.
 
 ## Why the US changes the grid
 
@@ -31,14 +45,15 @@ The Eliminate row is sharper here than in Europe, because the dominant US player
 
 ## Critical outstanding validation points
 
-1. How many unsuitable matches a student tolerates before abandoning the tool. This sets the accuracy bar for the whole strategy.
-2. Whether anyone other than employers will pay, since we eliminated the standard revenue model. Universities are the proposed payer and have not been approached.
-3. Whether a US careers office will adopt a second tool alongside Handshake. The entire partnership funnel rests on this and it has no evidence.
-4. Whether the entry-level shift monitor is wanted by students or only interesting to us.
+1. How many unsuitable matches a student tolerates before abandoning the tool. This sets the bar for the Reduce row.
+2. Whether verification depth is what earns trust, or whether students only want fewer, better matches and do not care how we got there.
+3. Whether a US careers office will adopt a second tool alongside Handshake. The partnership funnel rests on this and has no evidence.
+4. Whether non-ranking employer products plus university licences can replace paid-placement revenue.
+5. Whether the entry-level shift monitor is wanted by students or only interesting to us.
 
 ## Evidence boundaries
 
 - Based on real evidence (n=1): trust begins with never showing an unsuitable job; high application volume produces interviews but no hire.
-- Based on team and AI inference: the elimination of employer-paid placement, the university payer, the shift monitor, and every partnership figure.
-- Open contradiction: our Sceptic persona assumed explanations earn trust, while interview 01 named accuracy. Both stay in the grid until the survey separates them.
+- Based on team judgement: the employer-influence rule, the university payer, the shift monitor, and every partnership figure in market-research.md.
+- Open contradiction: our Sceptic persona assumed explanations earn trust, while interview 01 named accuracy. Survey Q6 separates them.
 - Declared assumption: our survey respondents are mostly in Spain and the team treats their behaviour as a proxy for US students.
