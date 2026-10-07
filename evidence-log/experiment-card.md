@@ -69,3 +69,66 @@ If not, narrow the scope or redesign the trust/explanation mechanism before buil
 - **Stop or pivot the channel** if both careers offices decline: the product may survive, but the university route, and therefore the business model, does not.
 
 Set before any results arrived, in line with the course rule that the decision rule comes before the test.
+
+## v0.2 (7 October 2026): one metric
+
+**This is the current experiment card. Everything above it is the audit trail, not what we now run.**
+
+### Why revised
+
+The graded feedback: "You have designed a runnable test, but you have not run it. Make the metric measure either trust or intended use, not both." Both halves are addressed here. The metric is now one number measuring one thing, and the test has been made runnable in practice rather than in principle: the prototype exists, the openings in it are real, and the scoring sheet is in the repository.
+
+### Riskiest assumption
+
+> Students will judge an AI-built shortlist as accurate, meaning they recognise the openings we show them as genuinely fitting their profile.
+
+Trust. Not intended use. The reasoning for choosing trust is in [assumptions.md](assumptions.md), v0.3.
+
+### Hypothesis
+
+If we show a student six openings chosen for the profile they gave us, each one verified as real and each carrying one line on why it is there, then the student will mark at least seven in ten of them as fitting.
+
+### The experiment
+
+Six real, verified Summer 2027 openings in [prototype/index.html](../prototype/index.html), found and checked by hand in [test run 01](test-runs/run-01-shortlist-feasibility.md). The student enters four things, receives the six, and marks each "fits me" or "does not fit me", giving one line of reasoning for every rejection. Fifteen minutes. Seven students. Protocol in [test run 03](test-runs/run-03-student-trust-test.md).
+
+### The metric
+
+> **Fit rate: the share of the openings shown to a student that the student marks "fits me".**
+
+One number per student. The result is the **median fit rate across students**. Nothing else counts toward pass or fail.
+
+### Threshold, pre-committed 7 October 2026 before any student saw the prototype
+
+| | |
+|---|---|
+| **Pass** | Median fit rate of at least 70%, across at least 5 students |
+| **Fail** | Median fit rate below 70% |
+
+### Decision rule, one metric, three branches
+
+| Median fit rate | Decision |
+|---|---|
+| 70% or above | Accuracy holds at the manual stage. Continue to Step 2 of the roadmap |
+| 50% to 69% | The concept survives, the matching rule does not. Rewrite the matching criteria from the rejection reasons and re-run this same test before building anything |
+| Below 50% | Stop and rethink the venture. If a human hand picking from verified openings cannot reach half, an automated version will not, and the verified shortlist promise fails at its foundation |
+
+### What is deliberately not measured
+
+"Would you use this as a first filter?" and "What would stop you using it?" are asked at the end of every session and written into [user-feedback.md](user-feedback.md). **Neither enters the pass or fail.**
+
+This is the single most important change in v0.2. The previous card had two success signals, 70% saying they would use it and most matches marked as fitting, and a decision rule that branched on both at once. A test with two metrics cannot be failed cleanly, because any result can be read as a partial pass on one of them. Now it can.
+
+### What we expect, written down before the test
+
+We expect a median fit rate between 50 and 69%, and we expect the Capital One Analyst Early Internship card to be the most rejected, because its sophomore only requirement is a hard eligibility gate our matching never looked at. If that card drives the rejections, the lesson is about eligibility fields. If rejections spread evenly across all six, the lesson is that the whole matching approach is too coarse. Writing this down first is what makes the result falsifiable instead of reinterpretable afterwards.
+
+### Status
+
+| | |
+|---|---|
+| Designed | Yes |
+| Runnable | Yes. Prototype, scoring sheet and protocol all in the repository |
+| **Run** | **Not yet. 0 of 7 students.** Owner Linda, target 15 October 2026 |
+
+Two other tests on this venture have now been run and are written up with their results, including the results that went against us: [test run 01](test-runs/run-01-shortlist-feasibility.md) and [test run 02](test-runs/run-02-does-this-already-exist.md).
