@@ -8,7 +8,7 @@ A student enters field, location and year of study and receives five openings. E
 
 **Why this one and not the most impressive one:** it is the thinnest thing that tests our riskiest assumption, that students will trust and use AI-generated recommendations as a first filter [evidence-log/assumptions.md]. The shift monitor is more impressive and tests nothing we need to know first.
 
-**Check:** at least 70% of testers say they would use it as a first filter, and most recommendations are marked "fits me" [evidence-log/experiment-card.md].
+**Must pass:** at least 70% of testers say they would use it as a first filter, and most recommendations are marked "fits me" [evidence-log/experiment-card.md].
 
 **Open from the Persona rehearsal:** five results may read as a weak search rather than a careful one. The interviews ask what number feels like a real search.
 

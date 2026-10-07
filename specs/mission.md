@@ -10,6 +10,10 @@ US undergraduates apply to everything because they cannot tell where they have a
 
 Every opening we show is checked as real, still open and explicit about work authorisation, and carries a plain reason why it fits and what does not [Team decision: evidence-log/ERRC.md, Raise]. We show far fewer jobs on purpose [Team decision: Reduce]. Nothing appears because an employer paid for it [Team decision: Eliminate].
 
+## Core flow
+
+A student says what they are looking for, we return a short list of verified openings with a reason for each, the student marks what does not fit, and the list improves [Team decision: specs/roadmap.md step 1].
+
 ## Non-goals
 
 - We do not try to list every posting. Breadth is deliberately low [Team decision]

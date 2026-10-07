@@ -26,6 +26,16 @@ An AI assistant that shows US undergraduates only the jobs and internships they 
 7. **Build only what tests the riskiest assumption.** See `specs/roadmap.md` step 1 and `evidence-log/experiment-card.md`.
 8. **Log meaningful AI use** in `evidence-log/ai-usage-log.md`, in the six-column course format, including what the team decided or checked.
 
-## Current state, 6 October 2026
+## Production principles we hold from day one
+
+The course lists ten production principles and says three apply from the first day. Ours:
+
+1. **Single source of truth.** Settings, intent and agent rules live in `specs/` and this file. Nothing important is only in a chat.
+2. **Version control as an audit trail.** Small commits with a message that says what changed and why, so an agent's mistake can be undone.
+3. **Zero secrets in code.** No keys, tokens or `.env` files in the repository, even in a quick test. See `.gitignore`.
+
+The remaining seven (separation of concerns, explicit contracts, fail fast, environment discipline, DRY, determinism, traceability of artifacts) tighten as the prototype matures, from the first working skeleton onwards.
+
+## Current state, 7 October 2026
 
 Evidence is complete through Group Project I. The constitution is at version 0.1 and carries open decisions, including five unanswered tech-stack questions. No feature has been specified and no code is written before the Session 15 gate.
