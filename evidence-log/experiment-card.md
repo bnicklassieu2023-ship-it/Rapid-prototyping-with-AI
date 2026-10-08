@@ -1,12 +1,14 @@
 # Experiment Card
 
-## Riskiest assumption
+> **Read v0.2 at the bottom of this page first.** Everything between here and the "v0.2" heading is kept on purpose as the version history the course asks for, and it is **superseded**. In particular the riskiest assumption immediately below still reads "trust **and** use", which is the exact wording the graded feedback told us to split. It is left visible so the change is traceable rather than silently rewritten. The current card is [v0.2](#v02-7-october-2026-one-metric).
+
+## Riskiest assumption, v0.1, SUPERSEDED
 Users will trust and use AI-generated opportunity recommendations as a first step in their decision process.
 
-## Hypothesis
+## Hypothesis, v0.1, SUPERSEDED
 If we show students a simple prototype that asks for their preferences and returns a shortlist with clear explanations, then most of them will say they would use it to narrow down options.
 
-## Smallest falsifiable experiment
+## Smallest falsifiable experiment, v0.1, SUPERSEDED
 Show 5-8 target users a rough prototype.
 
 The prototype should:
@@ -76,7 +78,7 @@ Set before any results arrived, in line with the course rule that the decision r
 
 ### Why revised
 
-The graded feedback: "You have designed a runnable test, but you have not run it. Make the metric measure either trust or intended use, not both." Both halves are addressed here. The metric is now one number measuring one thing, and the test has been made runnable in practice rather than in principle: the prototype exists, the openings in it are real, and the scoring sheet is in the repository.
+The graded feedback: "You have designed a runnable test, but you have not run it. Make the metric measure either trust or intended use, not both." One half is closed and one is not, and saying otherwise would repeat the mistake the feedback caught. The metric is now one number measuring one thing. The test is still **not** runnable in practice: the artefact it needs, a set of hand made cards carrying the five openings verified in [test run 01](test-runs/run-01-shortlist-feasibility.md), has not been made. What has changed is that the openings on those cards will be real and checkable instead of invented.
 
 ### Riskiest assumption
 
@@ -90,7 +92,7 @@ If we show a student six openings chosen for the profile they gave us, each one 
 
 ### The experiment
 
-Six real, verified Summer 2027 openings in [prototype/index.html](../prototype/index.html), found and checked by hand in [test run 01](test-runs/run-01-shortlist-feasibility.md). The student enters four things, receives the six, and marks each "fits me" or "does not fit me", giving one line of reasoning for every rejection. Fifteen minutes. Seven students. Protocol in [test run 03](test-runs/run-03-student-trust-test.md).
+Five real, verified Summer 2027 openings, found and checked by hand in [test run 01](test-runs/run-01-shortlist-feasibility.md), written by the team onto one card each. **The cards have not been made yet.** The student answers four questions out loud, is handed the five cards, and marks each "fits me" or "does not fit me", giving one line of reasoning for every rejection. Fifteen minutes. Seven students. Protocol in [test run 03](test-runs/run-03-student-trust-test.md).
 
 ### The metric
 
@@ -98,7 +100,7 @@ Six real, verified Summer 2027 openings in [prototype/index.html](../prototype/i
 
 One number per student. The result is the **median fit rate across students**. Nothing else counts toward pass or fail.
 
-### Threshold, pre-committed 7 October 2026 before any student saw the prototype
+### Threshold, pre-committed 7 October 2026 before any student was shown a shortlist
 
 | | |
 |---|---|
@@ -128,7 +130,7 @@ We expect a median fit rate between 50 and 69%, and we expect the Capital One An
 | | |
 |---|---|
 | Designed | Yes |
-| Runnable | Yes. Prototype, scoring sheet and protocol all in the repository |
+| Runnable | **Not yet.** The metric, threshold and protocol are in the repository and the openings are verified. The cards have not been made, so this test is fully specified rather than runnable today |
 | **Run** | **Not yet. 0 of 7 students.** Owner Linda, target 15 October 2026 |
 
 Two other tests on this venture have now been run and are written up with their results, including the results that went against us: [test run 01](test-runs/run-01-shortlist-feasibility.md) and [test run 02](test-runs/run-02-does-this-already-exist.md).

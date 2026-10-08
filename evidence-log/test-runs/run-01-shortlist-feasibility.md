@@ -76,7 +76,7 @@ These are what our Raise row commits to. A candidate passes only if all four hol
 | Add a dead-link check as the first and cheapest verification step | 2 of 12 were already dead. It costs one HTTP request |
 | Price verification into the plan before the next revision of either funnel | 12 checks for 5 openings is a cost that appears nowhere in market-research.md |
 | Treat an E-Verify mention as "not stated" for work authorisation | It reads like an answer and is not one |
-| Use the five verified openings as the real cards in the rough prototype | The student trust test needs real openings, not invented ones |
+| Write the five verified openings onto the five cards used in the rough test | The student trust test needs real openings, not invented ones. Nothing is built: `prototype/` stays empty until Session 16 |
 
 ## Next
 

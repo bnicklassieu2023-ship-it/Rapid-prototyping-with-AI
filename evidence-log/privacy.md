@@ -12,18 +12,17 @@ Our product is more accurate the more it knows about a student, and students are
 
 **We ask for the least that makes a shortlist possible, and we ask for it without an account.**
 
-The prototype asks four things: field, location, year of study, and whether the student needs visa sponsorship. That is enough to do the matching, and it is the test of the claim. If a useful shortlist can be built from four answers and no CV, then the CV was never the price of entry and we should stop assuming it is.
+The design asks four things: field, location, year of study, and whether the student needs visa sponsorship. That is enough to do the matching, and it is the test of the claim. If a useful shortlist can be built from four answers and no CV, then the CV was never the price of entry and we should stop assuming it is.
 
 This is also a competitive position, not only an ethical one. [Test run 02](test-runs/run-02-does-this-already-exist.md) found the incumbents monetise the student side through employers: Handshake is rolling out paid employer promotion inside student feeds, and Jobright's pitch is automatic applying at volume. Both of those need to know a lot about a student. A product whose Eliminate row is employer influence has no business building the same data position as the products it is defining itself against.
 
-## What is built today
+## What is actually in place today
+
+Nothing is built. There is no prototype and no software of any kind in this repository, so the only commitments that can be called done are the ones about how the **team** works.
 
 | Commitment | Status | Where |
 |---|---|---|
-| No account, no login, no email required to get a shortlist | **Built** | `prototype/index.html` |
-| No CV or transcript upload | **Built** | Not asked anywhere in the prototype |
-| Nothing the student types leaves the page: no server, no cookies, no analytics, no browser storage | **Built** | The prototype is a single file with no network calls. Open the source and check |
-| No secrets or keys in the repository | **Built** | `.gitignore`, added 7 October 2026, and the production principles in `AGENTS.md` |
+| No secrets or keys in the repository | **Done** | `.gitignore`, added 7 October 2026, and the production principles in `AGENTS.md` |
 | Interview and survey consent recorded before filming | **Built** | `recruitment.md`, `survey.md` |
 | The survey collects an email only if the student volunteers it for a follow up interview | **Built** | Question 11, optional |
 
@@ -33,7 +32,10 @@ This is also a competitive position, not only an ethical one. [Test run 02](test
 |---|---|
 | We never sell or share student data with employers, and employers never see a student unless the student applies | **Stated, nothing built.** No employer side exists yet to test it against |
 | A student can see and delete everything we hold about them | **Stated, nothing built** |
-| We do not store rejection reasons against a named student, only against the opening | **Stated.** The prototype does not store anything at all, so this is untested |
+| We do not store rejection reasons against a named student, only against the opening | **Stated, nothing built** |
+| No account, no login, no email required to get a shortlist | **Stated, nothing built.** This is the intake design, not a shipped behaviour |
+| No CV or transcript upload | **Stated, nothing built.** The four questions above are meant to be the whole intake |
+| Nothing the student types leaves the page: no server, no cookies, no analytics, no browser storage | **Stated, nothing built.** This becomes checkable at Session 16 and not before |
 
 These are written down now so that the first version that does store something has to argue against them rather than quietly ignore them.
 
@@ -48,4 +50,10 @@ These are written down now so that the first version that does store something h
 
 ## The risk in this position
 
-Holding almost no data is easy at the prototype stage and gets harder with every feature. Roadmap Step 2, where the list improves when a student rejects something, needs a memory of that student. The moment we build it, this page has to be rewritten rather than left as a claim we made once and stopped meeting. Whoever writes Step 2 owns that rewrite.
+Holding almost no data is easy when nothing is built and gets harder with every feature. Roadmap Step 2, where the list improves when a student rejects something, needs a memory of that student. The moment we build it, this page has to be rewritten rather than left as a claim we made once and stopped meeting. Whoever writes Step 2 owns that rewrite.
+
+## Correction, 8 October 2026
+
+The first version of this page had a table headed "What is built today" with three rows marked **Built** and pointing at `prototype/index.html`. That file was an AI generated page, it was not made by the team, and it has been deleted. Those three commitments have moved into "What is a position, not yet a product" above, where they are marked as stated and not built, which is what they always were.
+
+The honest position is that no privacy commitment in this document has been tested, because there is nothing to test. Survey round 1 also found that only 1 of 4 respondents named privacy as a trust factor ([survey.md](survey.md)). So this page is a principle the team is choosing to hold, not a demand students made of us, and it should be presented that way. Entry 19 of the [decision log](decision-log.md) has the full record.

@@ -11,10 +11,10 @@ The previous submission scored 5.68 out of 8. Every criterion the professor mark
 |---|---|---|
 | **Venture chain**, 0.36/0.4 | Trust and intended use are mixed together. Choose one and carry it through the test and decision rule | Chose **trust**. The word "use" is gone from the assumption, the sprint goal, the metric and the decision rule. One claim runs end to end: [venture-skeleton-v0.1.md](evidence-log/venture-skeleton-v0.1.md) v0.2 |
 | **Riskiest Assumption**, 0.62/0.8 | Choose either trust or intended use, then explain why that one matters most | [assumptions.md](evidence-log/assumptions.md) v0.3. Four reasons for trust over intended use, including that intended use is downstream and that our whole ERRC grid is a trust strategy |
-| **Experiment fit**, 0.8/1.6 | You designed a runnable test but have not run it. Make the metric measure one thing | One metric, the **fit rate**, with a threshold fixed before anyone saw the prototype: [experiment-card.md](evidence-log/experiment-card.md) v0.2. And **two tests have now actually been run**, with results, in [evidence-log/test-runs/](evidence-log/test-runs/) |
-| **Rough Test**, 0/0.8 | Add the actual rough prototype and a backup. The README lists files to add but they are not there | [prototype/index.html](prototype/index.html) is a working prototype with six real, verified openings and built in scoring. The PDF and PNG are the backup. The old "files to add" README is gone |
+| **Experiment fit**, 0.8/1.6 | You designed a runnable test but have not run it. Make the metric measure one thing | One metric, the **fit rate**, with a threshold fixed before any student was shown a shortlist: [experiment-card.md](evidence-log/experiment-card.md) v0.2. And **two tests have now actually been run**, with results, in [evidence-log/test-runs/](evidence-log/test-runs/) |
+| **Rough Test**, 0/0.8 | Add the actual rough prototype and a backup. The README lists files to add but they are not there | **Not closed, and the only criterion where we still have nothing.** `prototype/` stays empty until Session 16, which is what the course repository structure requires. The test itself is specified down to the metric, the threshold and the protocol in [run 03](evidence-log/test-runs/run-03-student-trust-test.md), and the artefact it needs is a set of hand made cards carrying the five openings verified in [run 01](evidence-log/test-runs/run-01-shortlist-feasibility.md). Those cards do not exist yet. Entry 19 of the [decision log](evidence-log/decision-log.md) records why an AI generated page that briefly sat in `prototype/` was deleted rather than counted |
 | **Traceability**, 0.4/0.4 | Records are consistent and show test access and checks completed | Kept, and extended: every test run names who ran it, on what date, and what the result was, including the results that went against us |
-| **Explanation**, 3.5/4 | Test whether the idea already exists and what differentiates you. How do you handle privacy and data sharing? You do not need a build to start testing | [Test run 02](evidence-log/test-runs/run-02-does-this-already-exist.md) checks each incumbent against our two strategic moves. [privacy.md](evidence-log/privacy.md) takes a data position and separates what is built from what is only claimed. The prototype is hand picked with no algorithm behind it, which is the cheapest possible build |
+| **Explanation**, 3.5/4 | Test whether the idea already exists and what differentiates you. How do you handle privacy and data sharing? You do not need a build to start testing | [Test run 02](evidence-log/test-runs/run-02-does-this-already-exist.md) checks each incumbent against our two strategic moves. [privacy.md](evidence-log/privacy.md) takes a data position and separates what is built from what is only claimed. Our shortlist is hand picked with no algorithm behind it, which is why no build is needed to start testing |
 
 ### The three things our own tests found that work against us
 
@@ -26,7 +26,7 @@ A test that only confirms what you hoped is not a test. These are in the reposit
 
 ### Still not done, stated plainly
 
-The student trust test has **not** been run. 0 of 7. The prototype, the scoring sheet, the protocol and the threshold all exist; the students do not yet. Nothing in this repository treats the riskiest assumption as tested until that table has five rows. Same for the two careers office conversations, 0 of 2.
+The student trust test has **not** been run. 0 of 7. The protocol, the metric and the threshold exist. The cards the session needs have not been made, and no student has sat down with us. Nothing in this repository treats the riskiest assumption as tested until that table has five rows. Same for the two careers office conversations, 0 of 2.
 
 
 ## How to read this repository
@@ -37,7 +37,7 @@ This repository follows the three layers of truth from Session 12.
 |---|---|---|
 | Evidence | `evidence-log/` | What do we know, and what supports it? |
 | Constitution, v0.1 | `specs/` | What do we build, why, with what, and in what order? |
-| Feature specification | `specs/YYYY-MM-DD-<feature>/` | Not started. Session 13 |
+| Feature specification | `specs/2026-10-08-verified-shortlist/` | Requirements, plan and validation for Step 1 of the roadmap |
 | Agent rules | `AGENTS.md`, `agents/persona-agent.md` | How agents work here, and the Persona Agent kept for rehearsal only |
 
 **Start here:** [specs/mission.md](specs/mission.md), then [evidence-log/venture-skeleton-v0.1.md](evidence-log/venture-skeleton-v0.1.md).
@@ -53,6 +53,7 @@ The market is the **United States**, decided on 1 October 2026. Europe was dropp
 | `specs/mission.md` | Purpose, promise, non-goals, open questions, every claim labelled |
 | `specs/tech-stack.md` | Layers, the AI role, dependencies. Carries open TBDs on purpose |
 | `specs/roadmap.md` | Step 1 is the thinnest end-to-end test of the riskiest assumption |
+| `specs/2026-10-08-verified-shortlist/` | The Step 1 feature spec: `requirements.md`, `plan.md`, `validation.md` |
 | `evidence-log/opportunity.md`, `opportunity-v02.md` | Original opportunity, then the US market review |
 | `evidence-log/jtbd.md` | Current Job to Be Done with evidence status per element |
 | `evidence-log/personas/` | 3 selected personas and 6 drafts, US context |
@@ -68,8 +69,8 @@ The market is the **United States**, decided on 1 October 2026. Europe was dropp
 | `evidence-log/press-release.md` | Working Backwards opener |
 | `evidence-log/assumptions.md`, `goals.md`, `ai-usage-log.md` | Assumption map, goals, AI use with student decisions |
 | `downloads/` | The 8 course helper prompts plus SKILL.md and AGENTS.md |
-| `prototype/index.html` | **The working rough prototype v0.2**, six real verified openings, fit rate scored in the page |
-| `prototype/` | The v0.1 PDF and PNG backups, and the scoring sheet |
+| `prototype/` | **Deliberately empty until Session 16**, as the course structure requires. [prototype/README.md](prototype/README.md) records what was removed from it and why |
+| `evidence-log/decision-log.md` | **Every step in this project, in order: why we did it, what we wanted to validate, what came back, and what we cut or added as a result** |
 | `evidence-log/test-runs/` | **Every test we have actually run**, with raw data, and the ones still owed |
 | `evidence-log/privacy.md` | Our data and privacy position, built parts separated from claimed parts |
 

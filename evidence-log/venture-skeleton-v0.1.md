@@ -52,7 +52,7 @@ Rewritten because the graded feedback found the chain carrying two assumptions a
 | Personas | The Mass Applier, The Sceptic, The Starter. Proto-personas, checked against 1 interview, rehearsed as AI personas and not validated | Kept |
 | **Riskiest Assumption** | **Students will judge an AI-built shortlist as accurate, meaning they recognise the openings we show them as genuinely fitting their profile** | **CHANGED.** The "trust and use" wording is gone. This is trust alone, and assumptions.md v0.3 says why trust and not use |
 | **Sprint Goal** | **Learn whether students judge the openings we put in front of them as genuinely fitting** | **CHANGED.** One claim, not three |
-| **Smallest Test** | **Six real verified openings in a working prototype. Seven students mark each one "fits me" or "does not fit me"** | **CHANGED.** The prototype now exists and the openings in it are real, from test run 01 |
+| **Smallest Test** | **Five real verified openings on hand made cards. Seven students mark each one "fits me" or "does not fit me"** | **CHANGED.** The openings are real and checkable, from test run 01. The cards have not been made, so the test is specified and not yet runnable |
 | **Metric** | **Fit rate: the share of shown openings a student marks "fits me". One number** | **NEW.** There was no single metric before, which is what the feedback caught |
 | **Decision rule** | **70% or above: continue. 50 to 69%: rewrite the matching criteria and re-run. Below 50%: stop** | **CHANGED.** Three branches on one metric, instead of branches on two signals at once |
 | Not measured | Whether they would use it. Asked, recorded, deliberately not scored | **NEW, and deliberate** |
