@@ -75,4 +75,4 @@ The market is the **United States**, decided on 1 October 2026. Europe was dropp
 
 ## What is still open
 
-The critical test is unfinished: 7 filmed interviews, survey results and 2 careers-office conversations. Nothing in the ERRC grid or either funnel is validated until those land. The constitution has five unanswered tech-stack questions.
+The critical test is unfinished: 7 filmed interviews, 2 careers-office conversations, and the second round of survey responses. Survey round 1 has been read and is in evidence-log/survey.md: n=4, too small to settle anything, and it already works against our push force. Nothing in the ERRC grid or either funnel is validated until those land. The constitution has five unanswered tech-stack questions.

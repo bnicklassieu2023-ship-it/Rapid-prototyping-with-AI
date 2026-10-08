@@ -12,7 +12,7 @@ This folder exists because of the graded feedback on the previous submission. Th
 | [02](run-02-does-this-already-exist.md) | Has this already been done, and what differentiates us? | **RUN**, 7 Oct 2026 | Nobody claims verification. Handshake is rolling out paid employer promotion in student feeds, which is the opposite of our Eliminate row. Our 18,000 dollar university price is contradicted by a public 8,000 dollar comparator |
 | [03](run-03-student-trust-test.md) | Will students judge our shortlist as accurate? | **NOT RUN**, 0 of 7 students | Prototype, scoring sheet and threshold all ready. Owner Linda, target 15 Oct 2026 |
 | 04 | What does a competitor's first screen actually show a student? | **NOT RUN** | Needs a team member with a real student account. Cannot be done by AI. Specified at the end of run 02 |
-| [Survey](../survey.md) | Trust conditions, tolerance for bad matches, channel | **LIVE**, closes 13 Oct 2026 | Decision rules fixed before any answer arrived |
+| [Survey](../survey.md) | Trust conditions, tolerance for bad matches, channel | **ROUND 1 READ**, n=4, closes 13 Oct 2026 | All 4 named accuracy first. Tolerance for bad matches contradicts interview 01. The push force did not generalise. Round 2 from a parallel form still to be merged |
 | [Careers offices](../careers-office-outreach.md) | Will a university adopt a second tool alongside Handshake? | **NOT RUN**, 0 of 2 | Script ready. Pricing question added after run 02 |
 | [Shift-monitor spike](../spike-shift-monitor.md) | Can the Create row be built on free data? | **RUN**, 6 Oct 2026 | Feasible only in a reduced, sector-level form. The spike contradicts the original promise and that is left visible |
 

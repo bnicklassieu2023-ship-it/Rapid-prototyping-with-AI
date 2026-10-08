@@ -68,3 +68,33 @@ Our three Personas were run as synthetic Persona Agents against this grid (evide
 4. **Create** should lead with the adjacent roles a profile transfers to, not with a warning that a field is shrinking. This also matches what the spike says we can actually build.
 
 The synthetic session ended with all three Personas saying they would try the product, which is the known failure mode of synthetic Personas. Only the objections were kept.
+
+## Survey round 1 against the grid, 7 October 2026
+
+Four real students. Counts, not percentages, because n=4. Full results in [survey.md](survey.md).
+
+| Row | What round 1 says | Verdict |
+|---|---|---|
+| **Eliminate**: employer influence over what a student is shown | Not asked directly. Test run 02 is the stronger evidence here: Handshake is rolling out paid employer promotion inside student feeds | Unchanged, and strengthened from elsewhere |
+| **Reduce**: breadth of listings | **Challenged.** One respondent asked for the opposite, in writing | See below |
+| **Raise**: verification depth per posting | Consistent. All 4 named accuracy first; 3 of 4 named provenance; 3 of 4 named verified employers. Those are the three things this row delivers | Unchanged, still resting on interview 01 and test run 01 rather than on four answers |
+| **Create**: entry-level shift monitor | Consistent. 4 of 4 said it would change what they apply for | Unchanged, still bounded by spike-shift-monitor.md |
+
+## The Reduce row has its first real objection
+
+> "No clear distinction where the job offers come from and little integrations to job search engines. **I would like a platform that centralizes all the job offers in one place**"
+> Survey round 1, Q8, verbatim
+
+This is awkward and it should stay awkward. Our Reduce row deliberately shows a student fewer listings. One of the four people we have asked wants more of them, in one place, which is the aggregator model we defined ourselves against.
+
+**What we are not doing:** quietly rewriting the row, or reading the same answer as support because its first half asks for provenance, which our Raise row does provide.
+
+**What the objection actually splits into.** The same sentence contains a complaint and a request. The complaint is that a student cannot tell where an offer came from, which is precisely what we raise. The request is for everything in one place, which is what we reduce. So the respondent is not rejecting verification; they are refusing to trade coverage for it. That is the real trade our strategy makes, and it has now been questioned by a real person.
+
+**What decides it.** A direct question in the seven interviews, asked after the student has seen the six-card shortlist rather than in the abstract: would you rather have these six checked, or sixty unchecked? A preference stated before seeing a shortlist and a preference stated after are different measurements, and only the second one is worth anything here.
+
+**What happens if the interviews side with coverage.** The Reduce row is rewritten, not deleted: reduce the breadth of what is *shown first* rather than the breadth of what is *held*. That is a different venture from the one in the current grid, so the team decides it, not the evidence log, and not AI.
+
+## One more thing round 1 took away
+
+Only 1 of 4 picked "my data stays private" as a trust factor, the joint lowest of the six options. Nothing in the grid rests on privacy, so no row changes. But if privacy appears on a slide as a reason students would choose us, that is not supported by anything we have collected, and [privacy.md](privacy.md) now says the same: it is a position we hold, not a demand we found.

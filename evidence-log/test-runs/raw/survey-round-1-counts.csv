@@ -1,0 +1,46 @@
+question_no,question,option,count,n,read_on,source
+1,How old are you?,Under 19,0,4,2026-10-07,Google Forms summary
+1,How old are you?,19 to 21,3,4,2026-10-07,Google Forms summary
+1,How old are you?,22 to 24,1,4,2026-10-07,Google Forms summary
+1,How old are you?,25 or older,0,4,2026-10-07,Google Forms summary
+2,What are you doing right now?,Studying a bachelor,4,4,2026-10-07,Google Forms summary
+2,What are you doing right now?,Studying a master,0,4,2026-10-07,Google Forms summary
+2,What are you doing right now?,Recently graduated and looking,0,4,2026-10-07,Google Forms summary
+2,What are you doing right now?,Working,0,4,2026-10-07,Google Forms summary
+2,What are you doing right now?,Other,0,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),LinkedIn,3,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),InfoJobs,0,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),My university careers portal,1,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),Indeed,1,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),Company websites directly,0,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),Personal contacts,2,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),ChatGPT or another AI tool,0,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),I have not looked yet,0,4,2026-10-07,Google Forms summary
+3,Platforms used in last search (multi),Other,1,4,2026-10-07,Google Forms summary
+4,Applications sent in that search,0 to 5,2,4,2026-10-07,Google Forms summary
+4,Applications sent in that search,6 to 20,1,4,2026-10-07,Google Forms summary
+4,Applications sent in that search,21 to 50,0,4,2026-10-07,Google Forms summary
+4,Applications sent in that search,51 to 100,1,4,2026-10-07,Google Forms summary
+4,Applications sent in that search,More than 100,0,4,2026-10-07,Google Forms summary
+5,Ever hired through one of those platforms,Yes,2,4,2026-10-07,Google Forms summary
+5,Ever hired through one of those platforms,No,1,4,2026-10-07,Google Forms summary
+5,Ever hired through one of those platforms,"Not yet, still applying",1,4,2026-10-07,Google Forms summary
+6,Trust factors (pick up to three),Every job shown actually fits my profile,4,4,2026-10-07,Google Forms summary
+6,Trust factors (pick up to three),It explains why each job fits me,3,4,2026-10-07,Google Forms summary
+6,Trust factors (pick up to three),I can see where the job posting came from,3,4,2026-10-07,Google Forms summary
+6,Trust factors (pick up to three),My data stays private,1,4,2026-10-07,Google Forms summary
+6,Trust factors (pick up to three),The employers are verified,3,4,2026-10-07,Google Forms summary
+6,Trust factors (pick up to three),A friend or my university recommended it,1,4,2026-10-07,Google Forms summary
+7,Unsuitable suggestions before trust breaks,1,0,4,2026-10-07,Google Forms summary
+7,Unsuitable suggestions before trust breaks,2,0,4,2026-10-07,Google Forms summary
+7,Unsuitable suggestions before trust breaks,3 to 5,2,4,2026-10-07,Google Forms summary
+7,Unsuitable suggestions before trust breaks,More than 5,2,4,2026-10-07,Google Forms summary
+7,Unsuitable suggestions before trust breaks,It would not bother me,0,4,2026-10-07,Google Forms summary
+8,What would make you NOT use a tool like this,free text,4,4,2026-10-07,"4 answers quoted verbatim in survey.md"
+9,Would use it free through university login,Yes,4,4,2026-10-07,Google Forms summary
+9,Would use it free through university login,No,0,4,2026-10-07,Google Forms summary
+9,Would use it free through university login,It depends,0,4,2026-10-07,Google Forms summary
+10,Want to be told a role is shrinking because of AI,"Yes, that would change what I apply for",4,4,2026-10-07,Google Forms summary
+10,Want to be told a role is shrinking because of AI,"Interesting, but it would not change my behaviour",0,4,2026-10-07,Google Forms summary
+10,Want to be told a role is shrinking because of AI,No,0,4,2026-10-07,Google Forms summary
+11,Willing to be interviewed (optional email),volunteered,1,4,2026-10-07,"address held by Linda, deliberately not stored in this repository"

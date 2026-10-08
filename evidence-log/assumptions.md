@@ -115,3 +115,32 @@ These did not come from a workshop. They came from running something and being s
 | Verification is cheap enough to ignore in the plan | Test run 01 | **FALSIFIED.** 12 page checks produced 5 usable openings. The cost appears nowhere in either funnel |
 | A university would pay about 18,000 dollars a year for our licence | Test run 02 | **CONTRADICTED.** Handshake charges universities about 8,000 dollars a year for the system that replaces their whole legacy careers stack. We were proposing more than twice that for a second tool that does less. Funnel B's revenue line has to be rebuilt or defended |
 | Removing employer influence is a meaningful differentiator | Test run 02 | **STRENGTHENED, with a date.** Handshake is rolling out paid employer promotion inside student feeds, in beta with about 30 employers and a broader rollout planned for early 2026 |
+
+## v0.4 (7 October 2026): what survey round 1 did to this list
+
+Round 1, n=4. See [survey.md](survey.md) for the counts and [user-feedback.md](user-feedback.md) for the evidence read. Nothing here is validated by four people; this records direction and, more importantly, damage.
+
+| # | Assumption | Change after round 1 |
+|---|---|---|
+| 1 | Students will judge an AI-built shortlist as accurate | **Still the riskiest, unchanged.** All 4 named accuracy as their first trust condition, which is consistent with our v0.3 choice. Still untested with a real shortlist |
+| 3 | Trust depends on showing no opening that does not fit | **WEAKENED.** 0 of 4 said one or two bad matches would break their trust; all 4 chose 3 to 5 or more. Accuracy ranks first, but the absolute version of this assumption, which came from interview 01, is not supported |
+| 5 | Students are willing to upload CV and profile data, which we avoid | **Reframed.** Only 1 of 4 picked privacy as a trust factor. Our data position is a principle we chose, not a demand students expressed, and it is presented that way |
+| 9 | Students want to be told which entry-level roles are shrinking | Consistent: 4 of 4 said it would change what they apply for. Still bounded by what spike-shift-monitor.md says is buildable |
+| 8 | A US careers office will adopt a second tool alongside Handshake | Unchanged. 4 of 4 students would use it through their university, which says nothing about whether a careers office would buy it. Still no evidence at all on the office side |
+
+### The assumption round 1 damaged most
+
+> **Students apply at high volume and still do not get hired.**
+
+This sits underneath our opportunity statement, our press release and the Mass Applier persona. Round 1: 2 of 4 sent five applications or fewer, and 2 of 4 have been hired through a platform.
+
+**Status: CHALLENGED.** Not falsified, because all four are bachelor students and three are 21 or under, so they are earlier in the search than interview 01. But it can no longer be stated as a general fact about students. It is a claim about a segment we have not yet defined, and defining that segment is now a job for the interviews.
+
+### New risks, from the written objections
+
+| Risk | Where it came from | Status | How we would test it cheaply |
+|---|---|---|---|
+| Employers are starting to state that they do not accept applications made through agencies or AI tools, which could make our shortlist unusable at the point of applying | Survey Q8, one respondent, raised against our own idea unprompted | **NEW, n=1, and the sharpest objection we have received** | Read 20 real entry-level US postings and count how many carry such a clause. One desk run, no participants needed |
+| A verified, narrow list may simply not cover the industry a student wants | Survey Q8, one respondent | NEW, n=1 | Ask in the interviews which industry, then check whether our verification method can reach it |
+| Cost is an objection before any price exists | Survey Q8, one respondent answering only "money" | NEW, n=1 | The payment questions were cut from the short survey. They go to the interviews |
+| Students want everything in one place, which is the opposite of our Reduce row | Survey Q8, one respondent | NEW, n=1, and strategically awkward. See ERRC.md | Ask directly in the interviews whether fewer, checked results beat more, unchecked ones |

@@ -33,3 +33,26 @@ BOSTON, March 2027. Today we launched a careers assistant for undergraduates tha
 | Students want the entry-level shift view | No evidence. Survey Q10 tests it |
 
 **Next proof:** 7 filmed interviews, the live survey, and a prototype test against our 70% first-filter threshold.
+
+## Evidence check, 7 October 2026
+
+Re-read against survey round 1 ([survey.md](survey.md), n=4, round 2 still to be merged) and the two desk runs in [test-runs/](test-runs/).
+
+| Claim in the release | Status now |
+|---|---|
+| "Students stop sending hundreds of applications and start getting interviews" | **The weakest line in the document.** It rests on interview 01. In round 1, two of four sent five applications or fewer and two of four have already been hired through a platform. The headline describes a student we have met once |
+| Students over-apply, about 30 applications per role filled | Secondary source (NACE), unchanged, and still about the market rather than about our respondents |
+| 42% of recent graduates underemployed | Secondary source, unchanged |
+| A shortlist with a reason for each match | **Supported in direction.** All 4 named accuracy first; 3 of 4 named provenance and 3 of 4 named verified employers |
+| Offered through their college, students pay nothing | **Channel supported, price contradicted.** 4 of 4 would use it free through their university login, but test run 02 found Handshake charges universities about 8,000 dollars a year, against the 18,000 we assumed |
+| Employers cannot buy placement | **Strengthened from outside.** Test run 02 found Handshake rolling out paid employer promotion in student feeds, in beta with about 30 employers |
+
+### What we are not doing
+
+Rewriting the headline on four answers. Working Backwards is written from the future on purpose, and a press release that changes every time four people answer a form is not a vision, it is a weather report.
+
+### What has to happen before this is presented as written
+
+The headline claim needs the seven interviews. If the interviews also show modest application volumes, the release is rewritten around the claim that round 1 does support, which is that students cannot tell which openings are real and which they are eligible for, rather than that they are drowning in applications. That is a different and arguably sharper story, and test run 01 already supports it: 7 of 12 postings we checked failed verification and 2 were dead links.
+
+Noted here rather than quietly fixed, so the version we present is a choice the team made with the evidence in front of it.
