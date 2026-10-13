@@ -14,7 +14,7 @@ The course is explicit that no build is needed to start testing, and the reposit
 | A2 | Make one tally sheet per student: five rows, a fits/does not fit mark, a reason column, and a fit rate at the bottom | Team | NOT DONE |
 | A3 | Run [test run 03](../../evidence-log/test-runs/run-03-student-trust-test.md) with 7 students, 15 minutes each, following the protocol exactly | Linda | 0 of 7 |
 | A4 | Hold the 2 careers office conversations in [careers-office-outreach.md](../../evidence-log/careers-office-outreach.md) | Team | 0 of 2 |
-| A5 | Merge survey round 2 from the parallel form, restate n, re-read every decision rule against the combined sample | Team | Waiting on the responses |
+| A5 | Merge survey round 2 from the parallel form, restate n, re-read every decision rule against the combined sample | Team | **Done** 13 October 2026. n=21, every rule re-read in survey.md |
 
 Phase A produces a number: the median fit rate across at least five students. The decision rule for that number was fixed on 7 October 2026 and is in [experiment-card.md](../../evidence-log/experiment-card.md) v0.2. Nothing in Phase B starts until that number exists.
 
@@ -48,4 +48,4 @@ This is the build rule the project runs on, and it came out of our own test, not
 | Verification cost makes the unit economics impossible | 12 checks produced 5 openings, and this cost appears in neither funnel | Price it before the next funnel revision. If it does not close, the free-to-student model is the thing that breaks, not the product |
 | The university price is wrong | Run 02 found Handshake charges universities about 8,000 dollars a year against the 18,000 we assumed | Funnel B gets rebuilt or defended. It cannot stay as written |
 | Employers refuse AI-assisted applications | Raised unprompted by one survey respondent, n=1 | Cheap to check against real job descriptions. Not yet done |
-| We are testing the wrong segment | Round 1: 2 of 4 sent five applications or fewer, 2 of 4 already hired through a platform. Only one of four resembles the student in interview 01 | The interviews ask where each student is in their search before anything else |
+| We are testing the wrong segment | Final survey: 10 of 21 respondents are not current undergraduates, 6 of 21 already hired through a platform, and only 1 of 21 sent more than 50 applications. The student in interview 01 sent hundreds | The interviews ask where each student is in their search before anything else |

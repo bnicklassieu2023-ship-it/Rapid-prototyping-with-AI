@@ -30,7 +30,7 @@ That is the whole feature. Anything that is not on that list is out of scope, an
 | R5 | "Still open" is never a model judgement. The posting's own stated deadline is shown, compared against today's date | run 01: the model misread posting status on 2 of the 3 postings it read | OBSERVED |
 | R6 | Where a posting states no closing date, the card reads "deadline not stated". It never reads "open" | run 01: 4 of the 5 verified openings stated no closing date at all | OBSERVED |
 | R7 | The employer's work authorisation position is quoted from the posting, not summarised. A mention of E-Verify is treated as "not stated" | run 01: E-Verify reads like an answer to sponsorship and is not one | OBSERVED |
-| R8 | Each card carries one line on why this opening is here, and one line on what is uncertain | Survey round 1: 3 of 4 named "it explains why each job fits me" and 3 of 4 named "I can see where the posting came from" as trust conditions, n=4 | REPORTED |
+| R8 | Each card carries one line on why this opening is here, and one line on what is uncertain | Final survey: 14 of 21 named "it explains why each job fits me" and 14 of 21 named "I can see where the posting came from" as trust conditions, n=21 | REPORTED |
 | R9 | Employers cannot pay for placement, ordering or visibility anywhere in the list | [ERRC.md](../../evidence-log/ERRC.md) Eliminate row; run 02 found Handshake rolling out paid employer promotion in student feeds | DESIGN DECISION |
 | R10 | Five openings per shortlist for the first test | roadmap Step 1 | ASSUMPTION, see open questions |
 
@@ -50,10 +50,10 @@ Each line is here because somebody will otherwise suggest it.
 |---|---|---|
 | Is five openings a careful search or a weak one? | The Synthetic Persona rehearsal flagged that five results may read as a thin search rather than a thorough one. Nobody real has told us | The 7 interviews |
 | What triggers a student to start searching at all? | The trigger question was cut from the short survey and remains an open gap in [jtbd.md](../../evidence-log/jtbd.md) v0.2 | The 7 interviews |
-| Do students want a narrow verified list or broad coverage? | Survey round 1 produced one respondent asking for the opposite of our Reduce row: "I would like a platform that centralizes all the job offers in one place" | The 7 interviews |
-| How many bad matches before trust breaks? | Interview 01 said one. Round 1 said 3 to 5 or more, with nobody choosing 1 or 2. Our two real-user sources contradict each other | The 7 interviews |
+| Do students want a narrow verified list or broad coverage? | Three of the six written answers in the final survey ask for the opposite of our Reduce row, including "I would like a platform that centralizes all the job offers in one place" | The 7 interviews |
+| How many bad matches before trust breaks? | Interview 01 said one. The final survey splits: 7 of 21 chose 1 or 2, and 14 of 21 chose 3 or more. Students disagree with each other, not only with interview 01 | The 7 interviews |
 | What does verification cost per usable opening? | 12 page checks produced 5 openings and this appears in neither funnel | Before the next revision of market-research.md |
 
 ## The sample this rests on, stated plainly
 
-One interview, four survey responses on our own form, two desk runs, and three AI personas that count as nothing. Round 2 of the survey has not been merged. Every requirement labelled REPORTED above rests on four people, and the one labelled ASSUMPTION rests on nobody.
+One interview, 21 survey responses across both forms, two desk runs, and three AI personas that count as nothing. Every requirement labelled REPORTED above rests on 21 people, 10 of whom are not current undergraduates, and the one labelled ASSUMPTION rests on nobody.

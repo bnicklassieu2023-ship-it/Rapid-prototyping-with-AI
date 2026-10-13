@@ -98,3 +98,25 @@ Four written objections from real people, quoted in full in survey.md. Three of 
 - Willingness to pay. The payment questions were cut from the short survey, and one respondent answered "money" to the objection question, so it goes to the interviews.
 - Whether any of this holds for US students. Every respondent so far is at IE. Our declared proxy assumption is doing a lot of work and the presentation says so.
 - Whether a student accepts a shortlist we actually built. That is test run 03 and it has not been run.
+
+## Final survey results, 13 October 2026
+
+The survey closed with 21 responses across both forms, including the 4 from round 1. Full counts and the decision-rule reading are in [survey.md](survey.md), final results.
+
+**Status: REAL-USER EVIDENCE (n=21). Still a signal, not validation.** 10 of the 21 are not current undergraduates, and the answers cannot be split by status or by country.
+
+| What changed from round 1 | Final, n=21 |
+|---|---|
+| Accuracy was the only trust condition all four chose | Accuracy, explanation and provenance tie at 14 of 21 |
+| Nobody chose 1 or 2 bad matches as their limit | 7 of 21 did. The contradiction with interview 01 is now a split between students |
+| One written objection asked for everything in one place | 3 of the 6 written answers ask for complete coverage |
+| 4 of 4 would use it free through their university | 16 of 21; 5 said it depends, none said no |
+| 2 of 4 hired through a platform | 6 of 21 hired, 12 still applying, 3 not hired |
+
+Two new written answers, word for word:
+
+> "If the tool didn't recommend based on my actual interests."
+
+> "If I didn't feel like all the available offerings are there."
+
+Still unknown: the trigger, willingness to pay, whether the high-volume students are the ones not hired, and whether a student accepts a shortlist we actually built.

@@ -27,7 +27,7 @@ The graded feedback said: make the metric measure one thing. The previous card h
 | Condition | What we do, not what we hope |
 |---|---|
 | Fewer than 5 students by 15 October 2026 | Report the individual fit rates as cases. Do not take a median of three people and call it a result |
-| Fewer than 20 survey responses across both forms by 13 October 2026 | Report it as a weak sample. **This has already fired for round 1, n=4**, and every figure in [survey.md](../../evidence-log/survey.md) is written as a count out of 4 rather than a percentage because of it |
+| Fewer than 20 survey responses across both forms by 13 October 2026 | Report it as a weak sample. **It fired for round 1, n=4**, written as counts out of 4. **It did not fire for the final sample**: 21 responses by 13 October, so [survey.md](../../evidence-log/survey.md) gives the final figures as counts and percentages |
 | Zero careers offices willing to talk | Funnel B is unvalidated, and the free-to-student channel in the press release is a claim rather than a plan |
 
 ## What we expect, written down before the test
@@ -45,11 +45,11 @@ So that we cannot claim afterwards that we knew.
 | A verified shortlist of five can be assembled by hand | **OBSERVED.** 12 candidates checked, 5 passed all four criteria | [run 01](../../evidence-log/test-runs/run-01-shortlist-feasibility.md) |
 | Model judgement of "still open" is unreliable | **OBSERVED.** Wrong on 2 of the 3 postings it read | run 01 |
 | Live postings include dead links | **OBSERVED.** 2 of 12, HTTP 410 and HTTP 404 | run 01 |
-| Accuracy is the trust condition students name most | **REPORTED, n=4.** The only option all four chose | [survey.md](../../evidence-log/survey.md) round 1 |
-| Students would use this free through their university | **REPORTED, n=4.** 4 of 4 | survey.md round 1 |
+| Accuracy is the trust condition students name most | **CHALLENGED, n=21.** 14 of 21, tied with explanation and with provenance. Round 1 had it as the only option all four chose | [survey.md](../../evidence-log/survey.md) final results |
+| Students would use this free through their university | **REPORTED, n=21.** 16 of 21; 5 said it depends, none said no | survey.md final results |
 | The university price is about 18,000 dollars a year | **CONTRADICTED.** Handshake charges about 8,000 | [run 02](../../evidence-log/test-runs/run-02-does-this-already-exist.md) |
 | Employers cannot buy placement is a real differentiator | **SUPPORTED from outside.** Handshake is rolling out paid employer promotion in student feeds, beta, about 30 employers | run 02 |
-| Students apply at high volume and are not hired | **CHALLENGED.** 2 of 4 sent five or fewer; 2 of 4 already hired through a platform | survey.md round 1 |
+| Students apply at high volume and are not hired | **CHALLENGED, not settled.** 9 of 21 sent more than 20 and 15 of 21 have not been hired through a platform, but whether they are the same people needs the response sheet. Only 1 of 21 sent more than 50 | survey.md final results |
 | Students will judge our shortlist as accurate | **UNTESTED.** 0 of 7 | run 03 |
 
 ## What would make this feature not worth building

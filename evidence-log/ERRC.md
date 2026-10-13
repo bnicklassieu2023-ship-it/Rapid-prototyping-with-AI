@@ -98,3 +98,16 @@ This is awkward and it should stay awkward. Our Reduce row deliberately shows a 
 ## One more thing round 1 took away
 
 Only 1 of 4 picked "my data stays private" as a trust factor, the joint lowest of the six options. Nothing in the grid rests on privacy, so no row changes. But if privacy appears on a slide as a reason students would choose us, that is not supported by anything we have collected, and [privacy.md](privacy.md) now says the same: it is a position we hold, not a demand we found.
+
+## The final survey against the grid, 13 October 2026
+
+21 responses across both forms. Full results in [survey.md](survey.md), final results.
+
+| Row | What the final survey says | Verdict |
+|---|---|---|
+| **Eliminate**: employer influence over what a student is shown | Not asked directly | Unchanged. Test run 02 remains the evidence |
+| **Reduce**: breadth of listings | **Challenged more.** 3 of the 6 written answers ask for complete coverage | Still decided by the seven interviews, as above |
+| **Raise**: verification depth per posting | Consistent. Provenance 14 of 21, verified employers 13 of 21 | Unchanged |
+| **Create**: entry-level shift monitor | Consistent. 15 of 21 said it would change what they apply for | Unchanged, still bounded by spike-shift-monitor.md |
+
+Privacy, which round 1 put at 1 of 4, is 9 of 21 in the final survey and still second from last of six options. No row rests on it.

@@ -144,3 +144,22 @@ This sits underneath our opportunity statement, our press release and the Mass A
 | A verified, narrow list may simply not cover the industry a student wants | Survey Q8, one respondent | NEW, n=1 | Ask in the interviews which industry, then check whether our verification method can reach it |
 | Cost is an objection before any price exists | Survey Q8, one respondent answering only "money" | NEW, n=1 | The payment questions were cut from the short survey. They go to the interviews |
 | Students want everything in one place, which is the opposite of our Reduce row | Survey Q8, one respondent | NEW, n=1, and strategically awkward. See ERRC.md | Ask directly in the interviews whether fewer, checked results beat more, unchecked ones |
+
+## v0.5 (13 October 2026): what the final survey did to this list
+
+The survey closed with 21 responses across both forms. See [survey.md](survey.md), final results. Shares of 21 move by almost 5 points per person, so this records direction, not validation.
+
+| # | Assumption | Change after the final survey |
+|---|---|---|
+| 1 | Students will judge an AI-built shortlist as accurate | **Still the riskiest.** Accuracy reaches the 60% bar the survey rule set, 14 of 21. It is no longer ahead on its own: explanation and provenance tie with it at 14 of 21. Still untested with a real shortlist |
+| 3 | Trust depends on showing no opening that does not fit | **Split, no longer simply weakened.** 7 of 21 would stop trusting a tool after 1 or 2 bad matches; 14 of 21 chose 3 or more |
+| 4 | Explanations build trust | **Back in contention.** Interview 01 put accuracy ahead of explanations. The final survey ties them. Still not load bearing in the metric |
+| 5 | Students are willing to upload CV and profile data, which we avoid | 9 of 21 picked privacy as a trust factor, against 1 of 4 in round 1. Still second from last of six options, so privacy stays a position we chose |
+| 9 | Students want to be told which entry-level roles are shrinking | Consistent: 15 of 21 said it would change what they apply for. The question describes the AI-caused version, which spike-shift-monitor.md says is not buildable on free data |
+| — | Students apply at high volume and still do not get hired | **Still CHALLENGED, not settled.** 9 of 21 sent more than 20 applications and 15 of 21 have not been hired through a platform; whether those are the same people needs the response sheet. Only 1 of 21 sent more than 50 |
+
+| Risk from round 1 | Change after the final survey |
+|---|---|
+| A verified, narrow list may not cover the industry a student wants, and students want everything in one place | **Grown from n=1 to 3 of the 6 written answers.** Coverage is now the most common written objection |
+| Employers refusing applications made through agencies or AI tools | Unchanged, n=1. Still unchecked against real job descriptions |
+| Cost is an objection before any price exists | Unchanged, n=1 |

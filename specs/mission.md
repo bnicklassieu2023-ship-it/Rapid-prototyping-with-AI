@@ -24,6 +24,6 @@ A student says what they are looking for, we return a short list of verified ope
 ## Open
 
 - Whether universities will adopt and pay for it [Missing: no careers office contacted yet]
-- Whether verification earns trust, or students simply want fewer bad matches [Missing: survey round 1, n=4, is consistent but too small; the interviews are pending]
-- Whether students want the entry-level shift view [Missing: survey round 1, n=4, is consistent but too small, and the spike shows only a reduced version is buildable]
+- Whether verification earns trust, or students simply want fewer bad matches [Missing: the final survey, n=21, ties accuracy with explanation and provenance as trust conditions; the interviews are pending]
+- Whether students want the entry-level shift view [Missing: 15 of 21 in the final survey said it would change what they apply for, but the question described a version the spike shows is not buildable]
 - Whether the sharper pain is finding roles or never hearing back [Missing: raised by the Persona rehearsal, added to the interviews]

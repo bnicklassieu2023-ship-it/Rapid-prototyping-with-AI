@@ -1,6 +1,6 @@
 # Survey: second test of the Job and the trust condition
 
-**Status:** LIVE since 1 October 2026. Built in Google Forms, 11 questions, about 2 minutes, no sign-in required.
+**Status:** CLOSED on 13 October 2026, after running from 1 October. Built in Google Forms, 11 questions, about 2 minutes, no sign-in required. **Final result: 21 responses across both forms.** Read against the decision rules in the final section of this file.
 
 **Link sent to respondents:** https://forms.gle/mxvmrjHJAyEPbP3V6
 
@@ -46,6 +46,8 @@ Convenience sample through our own networks, self-reported behaviour, few respon
 ## Results, round 1, read on 7 October 2026
 
 **n = 4. The survey is still open and closes 13 October 2026.**
+
+> **Superseded by the final results at the end of this file**, n=21, read on 13 October 2026. Round 1 is kept below as the audit trail, rather than overwritten, because other files cite its n=4 figures.
 
 ### Why this is round 1, and what is still coming
 
@@ -167,3 +169,132 @@ The honest reading has two parts and we are not allowed to use only the comforta
 ## Round 1 in one line
 
 Round 1 is consistent with our trust assumption, unhelpful to our push force, and far too small to settle either. It does not change a single decision. Its real value is the four written objections and the two contradictions it surfaced, all of which become questions in the seven interviews.
+
+## Final results, both forms combined, read on 13 October 2026
+
+**n = 21. The survey closed on 13 October 2026.** Round 1 above is the audit trail; this section is the current reading.
+
+### Where these numbers come from
+
+The source is a summary of the closed survey compiled on 13 October 2026, covering our form and the parallel form run by another team, without a split between the two. It reports shares of 21, not raw counts. Every share below was converted back to a count out of 21, and every one converts to a whole number except the one flagged in the Q4 table.
+
+Every round 1 count fits inside the combined counts, and all four round 1 written answers appear among the six combined ones, so **the 21 include our original 4**. This is inferred from the numbers, not stated by the source.
+
+### What the stop condition now says
+
+The rule fixed in advance was: *under 20 responses by 13 October, report it as a weak sample instead of presenting percentages.* **21 responses arrived by 13 October, so the stop condition does not fire for the combined sample**, and percentages are used below alongside counts. The 50-response target in recruitment.md was not reached, and 21 is still a small convenience sample. Shares of 21 move by almost 5 points per person.
+
+### Who answered
+
+| Question | Result |
+|---|---|
+| Age | Under 19: 2. 19 to 21: **12**. 22 to 24: 6. 25 or older: 1 |
+| Current status | Studying a bachelor: **11** (52%). Working: 5. Recently graduated and looking: 3. Studying a master: 2. Other: not reported |
+
+**This is a different sample from round 1, not only a bigger one.** Round 1 was four bachelor students. The combined sample has **10 of 21 who are not current undergraduates**: working, graduated or studying a master's. Our target user is the US undergraduate. The source does not split answers by status, so the undergraduate answers cannot be separated from the rest.
+
+InfoJobs, a Spanish job board, was used by 2 respondents, so the sample is still at least partly European. The proxy assumption in assumptions.md still applies, and the European and US answers cannot be reported separately as recruitment.md intended.
+
+### Behaviour
+
+| Q3. Platforms used in the last search, several answers allowed | Count | Share |
+|---|---|---|
+| LinkedIn | **17** | 81% |
+| Personal contacts | **14** | 67% |
+| Company websites directly | 11 | 52% |
+| My university careers portal | 10 | 48% |
+| Indeed | 9 | 43% |
+| ChatGPT or another AI tool | 3 | 14% |
+| I have not looked yet | 3 | 14% |
+| InfoJobs | 2 | 10% |
+| Other | 1 | 5% |
+
+| Q4. Applications sent in that search | Count | Share |
+|---|---|---|
+| 0 to 5 | 4 | 19% |
+| 6 to 20 | **8** | 38% |
+| 21 to 50 | **8** | 38% |
+| 51 to 100 | 1 | 5% |
+| More than 100 | 0 | 0% |
+
+The source gives "about 2.4%" for each of the last two rows, which is not a possible share of 21. One respondent sits across those two rows. Round 1 already had one respondent in 51 to 100, and the 21 include round 1, so the one respondent is placed there. **Check this against the response sheet.**
+
+| Q5. Ever hired through one of those platforms | Count | Share |
+|---|---|---|
+| Yes | 6 | 29% |
+| No | 3 | 14% |
+| Not yet, still applying | **12** | 57% |
+
+### Trust
+
+| Q6. What would make you trust a new website's recommendations, pick up to three | Count | Share |
+|---|---|---|
+| Every job shown actually fits my profile | **14** | 67% |
+| It explains why each job fits me | **14** | 67% |
+| I can see where the job posting came from | **14** | 67% |
+| The employers are verified | 13 | 62% |
+| My data stays private | 9 | 43% |
+| A friend or my university recommended it | 3 | 14% |
+
+| Q7. Unsuitable suggestions before you stop trusting a tool | Count | Share |
+|---|---|---|
+| 1 | 1 | 5% |
+| 2 | 6 | 29% |
+| 3 to 5 | 6 | 29% |
+| More than 5 | **8** | 38% |
+| It would not bother me | 0 | 0% |
+
+### Q8. What would make you NOT use a tool like this, all six answers, word for word
+
+The four round 1 answers are quoted above. The two new ones:
+
+> "If the tool didn't recommend based on my actual interests."
+
+> "If I didn't feel like all the available offerings are there."
+
+### Channel and the Create row
+
+| Question | Result |
+|---|---|
+| Q9. Would use it free through the university login | Yes: **16** (76%). It depends: 5 (24%). No: 0 |
+| Q10. Would want to be told a role is shrinking because of AI | Yes, would change what I apply for: **15** (71%). Interesting but no behaviour change: 5 (24%). No: 1 (5%) |
+| Q11. Willing to be interviewed | Not reported in the final summary. The one address from round 1 is held by Linda and is not in this repository |
+
+## The decision rules, read against the final results
+
+The same rules, fixed before any answer arrived, now read on 21 responses.
+
+| Rule | Threshold | Final, n=21 | Fires? | What it means |
+|---|---|---|---|---|
+| Accuracy in the top three for trust (Q6) | 60% or more | 14 of 21, 67% | **Yes** | The rule's action, written before the 6 October ERRC decision, was to keep accuracy as the Raise row. The Raise row has since become verification depth. What this reading supports is accuracy remaining our riskiest assumption |
+| Tolerance for unsuitable matches (Q7) | 50% or more answer 1 or 2 | 7 of 21, 33% | **No** | The 70% fit-rate bar in experiment-card.md stays as it is |
+| Explanation ranks above accuracy (Q6) | If it does | Accuracy 14, explanation 14 | **No, it ties** | The rule does not fire, so explanation is not put back as the Raise row. But accuracy no longer leads on its own. See below |
+| Would use it through the university (Q9) | 50% or more | 16 of 21, 76% | **Yes** | Keep the university channel. The rule also named the university as payer, and that half is still contradicted by the price found in test run 02 |
+| Shift monitor would change behaviour (Q10) | Under 30% | 15 of 21, 71% said yes | **No**, so we do not park it | The Create row stays, still bounded by what spike-shift-monitor.md says is buildable. Q10 describes the richer, AI-caused version, which the spike says we cannot build |
+| High application counts with no hire (Q4 and Q5) | If common | 9 of 21 sent more than 20; 15 of 21 not hired through a platform | **Cannot be read** | The rule needs the same respondent to have both. The summary gives each question separately, so the overlap can only be found in the response sheet |
+
+## What the final results change
+
+**1. Accuracy is tied, not ahead.** Round 1's strongest line was that accuracy was the only option all four chose. In the final sample, accuracy, explanation and seeing where the posting came from are tied at 14 of 21, and verified employers is one behind at 13. Accuracy is still in the top group, so the rule we set still fires. But anything in this repository that says students name accuracy most, or rank it above explanation, now rests on round 1 alone. Explanation is as wanted as accuracy, which weakens the interview 01 finding that put accuracy ahead of explanations.
+
+**2. Some students are as strict as interview 01.** Round 1 had nobody choosing 1 or 2 bad matches as their limit. The final sample has 7 of 21. That is under the 50% the rule needs, so the bar does not change. But the contradiction between interview 01 and round 1 is now a split between students rather than a disagreement with all of them.
+
+**3. The push force reads more strongly, and cannot be confirmed.** Round 1 had 2 of 4 hired through a platform and 2 of 4 sending five applications or fewer. The final sample has 6 of 21 hired and 4 of 21 sending five or fewer, with 12 still applying. That points more towards our opportunity statement than round 1 did. It is not the high-volume, no-hire pattern the rule asks for until the response sheet shows the two together. Only 1 of 21 sent more than 50, so "hundreds of applications" still describes interview 01 rather than this sample.
+
+**4. Coverage is now the most common written objection.** Three of the six written answers ask for completeness: an industry that is underrepresented, wanting to feel "all the available offerings are there", and wanting "a platform that centralizes all the job offers in one place". That puts the challenge to our Reduce row at 3 of 6 written answers, not 1 of 4. ERRC.md says the seven interviews decide it, and that still holds.
+
+**5. Privacy matters more than round 1 suggested.** 9 of 21, against 1 of 4, picked "my data stays private". It is still second from last of the six options, so privacy.md's reading, that this is a position we chose rather than students' main demand, still holds. It is no longer fair to say almost nobody named it.
+
+**6. The university channel holds, and so does the Create row.** 16 of 21 would use it free through their university, and nobody said no. 15 of 21 said the shift view would change what they apply for. Neither reading says anything about whether a careers office would buy the tool or what we can build.
+
+### What this section does not adopt from the source summary
+
+The source summary draws its own conclusions. Three are not taken over here, because they read more into the numbers than they hold:
+
+- **"38% are already in the job market."** Working, graduated or studying a master's is 10 of 21, which is 48%. 38% is working plus graduated only.
+- **"57% haven't been hired."** 12 of 21 are still applying; including those who answered "no", 15 of 21 have not been hired through a platform.
+- **"AI-driven labour-market intelligence is a highly valued feature" and "building this adds unique value".** Q10 measures stated interest, and spike-shift-monitor.md says the AI-caused version cannot be built on free data.
+
+## Final results in one line
+
+21 responses, enough to stop calling the survey a handful of people and still far from a finding. Accuracy is still in the top three but now ties with explanation and provenance, a third of respondents are as strict about bad matches as interview 01, and the most common written objection is that a short list misses jobs. All three go to the seven interviews.

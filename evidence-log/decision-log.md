@@ -197,3 +197,12 @@ It exists because a venture log that only records what we built reads as a list 
 - **Result:** 64 lines aligned across 23 files, each replaced in place, with no file added or removed. Survey claims now say accuracy was the only option all four chose rather than that it was named first, because question 6 was pick up to three, not a ranking.
 - **Right or wrong:** six items could not be aligned without changing content, and are left for the team: the Capital One sophomore-only card marked PASS against a junior test profile, card deadlines that pass before the test date, two vocabularies of claim labels, run 03's protocol leaving no time for the interview questions, the fixed cards fitting only one profile, and the superseded wording kept on purpose as audit trail.
 - **Cut or added:** added this entry and entry 20, and the matching rows in ai-usage-log.md. Nothing cut.
+
+## 22. Survey closed and read against the pre-set rules
+**13 October 2026.** n=21 across both forms, including the 4 from round 1.
+
+- **Why:** the survey closed on its planned date, and the rules were fixed in advance, so the final sample had to be read against them whatever it said.
+- **What we wanted to validate:** the same six thresholds as round 1, now on enough responses for the stop condition not to fire.
+- **Result:** accuracy in the top three for 14 of 21, so that rule fires. Explanation ties with accuracy rather than ranking above it, so that rule does not fire. 7 of 21 would stop trusting a tool after 1 or 2 bad matches, under the 50% that would raise the bar. 16 of 21 would use it free through their university. 15 of 21 said the shift view would change what they apply for. The push-force rule cannot be read without the response sheet.
+- **Right or wrong:** our trust assumption holds its place without leading on its own. Round 1's "the only option all four chose" did not survive a bigger sample, and the claim that students name accuracy most was marked CHALLENGED in validation.md. The stop condition did not fire this time, since 21 responses arrived by 13 October, though the 50-response target was missed.
+- **Cut or added:** cut every remaining claim that accuracy leads explanation on survey evidence. Added the final results to survey.md, and dated sections to assumptions.md, jtbd.md, ERRC.md and user-feedback.md. Added coverage as the most common written objection. Round 1 is kept as the audit trail rather than overwritten, because other files cite its n=4 figures. Not done: the raw counts file still holds round 1 only.

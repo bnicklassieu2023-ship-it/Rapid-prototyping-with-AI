@@ -56,3 +56,18 @@ The statement still holds at its core: students want confidence about which open
 **The circumstance is the part that needs work.** All four respondents are bachelor students and three are 21 or under, so they sit earlier in the search than the student in interview 01. Either the Job belongs to a narrower moment than "studying or about to graduate", or the high-volume pattern appears later and we have been sampling the wrong end of it. Both readings are live. The seven interviews decide which, by asking where each student is in their search before anything else.
 
 Until then, the circumstance row is downgraded from a team interpretation we were comfortable with to **an open question**, alongside the trigger.
+
+## v0.3 (13 October 2026): what the final survey did to the Job
+
+The survey closed with 21 responses across both forms. Counts are in [survey.md](survey.md), final results.
+
+| Element | Status after round 1 | Status after the final survey, n=21 |
+|---|---|---|
+| Push: high effort without the result | CHALLENGED | **Still CHALLENGED, not settled.** 9 of 21 sent more than 20 applications and 15 of 21 have not been hired through a platform. Whether they are the same people needs the response sheet |
+| Solution hired: applying at high volume | CHALLENGED | **Still CHALLENGED.** Most sent 6 to 50 applications; only 1 of 21 sent more than 50 |
+| Pull: a shortlist where every job fits | CONSISTENT, not confirmed (n=4) | **CONSISTENT, n=21, and no longer alone.** 14 of 21, tied with explanation and provenance |
+| Anxiety: a new tool will show irrelevant jobs | Weakened in degree | **Split.** 7 of 21 would stop trusting a tool after 1 or 2 bad matches; 14 of 21 chose 3 or more |
+| Anxiety: reluctance to share personal information | Checked, and small | **Larger than round 1 showed.** 9 of 21 picked privacy, still second from last of six options |
+| Trigger | Open gap | **Still an open gap.** Not asked in the survey |
+
+The circumstance stays an open question. The final sample adds a new reason: 10 of 21 respondents are working, graduated or studying a master's, so the survey can no longer be read as describing undergraduates alone.
