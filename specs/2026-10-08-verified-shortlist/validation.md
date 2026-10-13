@@ -49,7 +49,7 @@ So that we cannot claim afterwards that we knew.
 | Students would use this free through their university | **REPORTED, n=21.** 16 of 21; 5 said it depends, none said no | survey.md final results |
 | The university price is about 18,000 dollars a year | **CONTRADICTED.** Handshake charges about 8,000 | [run 02](../../evidence-log/test-runs/run-02-does-this-already-exist.md) |
 | Employers cannot buy placement is a real differentiator | **SUPPORTED from outside.** Handshake is rolling out paid employer promotion in student feeds, beta, about 30 employers | run 02 |
-| Students apply at high volume and are not hired | **CHALLENGED, not settled.** 9 of 21 sent more than 20 and 15 of 21 have not been hired through a platform, but whether they are the same people needs the response sheet. Only 1 of 21 sent more than 50 | survey.md final results |
+| Students apply at high volume and are not hired | **CHALLENGED.** 12 of 21 already hired through a platform. At most 9 of 21 can have sent more than 20 and not been hired, under half whatever the overlap. Only 1 of 21 sent more than 50 | survey.md final results |
 | Students will judge our shortlist as accurate | **UNTESTED.** 0 of 7 | run 03 |
 
 ## What would make this feature not worth building

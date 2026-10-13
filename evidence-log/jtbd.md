@@ -63,11 +63,11 @@ The survey closed with 21 responses across both forms. Counts are in [survey.md]
 
 | Element | Status after round 1 | Status after the final survey, n=21 |
 |---|---|---|
-| Push: high effort without the result | CHALLENGED | **Still CHALLENGED, not settled.** 9 of 21 sent more than 20 applications and 15 of 21 have not been hired through a platform. Whether they are the same people needs the response sheet |
+| Push: high effort without the result | CHALLENGED | **CHALLENGED more strongly.** 12 of 21 have been hired through a platform. At most 9 of 21 can be high-volume applicants who were not hired, under half whatever the overlap |
 | Solution hired: applying at high volume | CHALLENGED | **Still CHALLENGED.** Most sent 6 to 50 applications; only 1 of 21 sent more than 50 |
 | Pull: a shortlist where every job fits | CONSISTENT, not confirmed (n=4) | **CONSISTENT, n=21, and no longer alone.** 14 of 21, tied with explanation and provenance |
-| Anxiety: a new tool will show irrelevant jobs | Weakened in degree | **Split.** 7 of 21 would stop trusting a tool after 1 or 2 bad matches; 14 of 21 chose 3 or more |
+| Anxiety: a new tool will show irrelevant jobs | Weakened in degree | **Weakened further.** 1 of 21 would stop trusting a tool after 1 or 2 bad matches; 6 of 21 said unsuitable suggestions would not bother them |
 | Anxiety: reluctance to share personal information | Checked, and small | **Larger than round 1 showed.** 9 of 21 picked privacy, still second from last of six options |
 | Trigger | Open gap | **Still an open gap.** Not asked in the survey |
 
-The circumstance stays an open question. The final sample adds a new reason: 10 of 21 respondents are working, graduated or studying a master's, so the survey can no longer be read as describing undergraduates alone.
+The circumstance stays an open question. The final sample adds a new reason: 10 of 21 respondents are studying a master's, working or graduated, so the survey can no longer be read as describing undergraduates alone.

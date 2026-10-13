@@ -51,7 +51,7 @@ Each line is here because somebody will otherwise suggest it.
 | Is five openings a careful search or a weak one? | The Synthetic Persona rehearsal flagged that five results may read as a thin search rather than a thorough one. Nobody real has told us | The 7 interviews |
 | What triggers a student to start searching at all? | The trigger question was cut from the short survey and remains an open gap in [jtbd.md](../../evidence-log/jtbd.md) v0.2 | The 7 interviews |
 | Do students want a narrow verified list or broad coverage? | Three of the six written answers in the final survey ask for the opposite of our Reduce row, including "I would like a platform that centralizes all the job offers in one place" | The 7 interviews |
-| How many bad matches before trust breaks? | Interview 01 said one. The final survey splits: 7 of 21 chose 1 or 2, and 14 of 21 chose 3 or more. Students disagree with each other, not only with interview 01 | The 7 interviews |
+| How many bad matches before trust breaks? | Interview 01 said one. In the final survey 1 of 21 chose 1 or 2, 14 of 21 chose 3 or more, and 6 of 21 said it would not bother them. Our two real-user sources still contradict each other | The 7 interviews |
 | What does verification cost per usable opening? | 12 page checks produced 5 openings and this appears in neither funnel | Before the next revision of market-research.md |
 
 ## The sample this rests on, stated plainly

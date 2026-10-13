@@ -76,4 +76,4 @@ The market is the **United States**, decided on 1 October 2026. Europe was dropp
 
 ## What is still open
 
-The critical test is unfinished: 7 filmed interviews, 2 careers-office conversations, and the push-force overlap in the survey response sheet. The survey closed on 13 October with 21 responses across both forms, read in evidence-log/survey.md: accuracy ties with explanation and provenance as a trust condition, and the push force can only be confirmed from the response sheet. Nothing in the ERRC grid or either funnel is validated until those land. The constitution has five unanswered tech-stack questions.
+The critical test is unfinished: 7 filmed interviews and 2 careers-office conversations. The survey closed on 13 October with 21 responses across both forms, read in evidence-log/survey.md: accuracy ties with explanation and provenance as a trust condition, and the push force did not generalise, with 12 of 21 already hired through a platform. Nothing in the ERRC grid or either funnel is validated until those land. The constitution has five unanswered tech-stack questions.

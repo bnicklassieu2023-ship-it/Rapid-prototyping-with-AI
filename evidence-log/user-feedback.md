@@ -108,15 +108,15 @@ The survey closed with 21 responses across both forms, including the 4 from roun
 | What changed from round 1 | Final, n=21 |
 |---|---|
 | Accuracy was the only trust condition all four chose | Accuracy, explanation and provenance tie at 14 of 21 |
-| Nobody chose 1 or 2 bad matches as their limit | 7 of 21 did. The contradiction with interview 01 is now a split between students |
+| Nobody chose 1 or 2 bad matches as their limit | 1 of 21 did, and 6 of 21 said unsuitable suggestions would not bother them. The contradiction with interview 01 is now one student against twenty |
 | One written objection asked for everything in one place | 3 of the 6 written answers ask for complete coverage |
 | 4 of 4 would use it free through their university | 16 of 21; 5 said it depends, none said no |
-| 2 of 4 hired through a platform | 6 of 21 hired, 12 still applying, 3 not hired |
+| 2 of 4 hired through a platform | 12 of 21 hired, 6 still applying, 3 not hired |
 
 Two new written answers, word for word:
 
 > "If the tool didn't recommend based on my actual interests."
 
-> "If I didn't feel like all the available offerings are there."
+> "If I didn't feel like all the available offerings are there"
 
-Still unknown: the trigger, willingness to pay, whether the high-volume students are the ones not hired, and whether a student accepts a shortlist we actually built.
+Still unknown: the trigger, willingness to pay, and whether a student accepts a shortlist we actually built. The push force did not generalise in this sample, and only the interviews can show whether it holds for a narrower segment.
