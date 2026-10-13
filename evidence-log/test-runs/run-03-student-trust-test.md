@@ -41,7 +41,7 @@ Set on 7 October 2026, before any student had been shown a shortlist. One metric
 
 | Median fit rate | Decision | Why |
 |---|---|---|
-| 70% or above | Continue to Step 2 of the roadmap | Accuracy holds at the manual stage. If a human can do it, a system can be built to do it |
+| 70% or above | Continue to building Step 1 of the roadmap, Phase B of [plan.md](../../specs/2026-10-08-verified-shortlist/plan.md), Session 16 at the earliest | Accuracy holds at the manual stage. If a human can do it, a system can be built to do it |
 | 50% to 69% | The concept survives, the matching rule does not. Rewrite the matching criteria from the rejection reasons and re-run this same test before anything is built | A near miss means we are matching on the wrong fields, not that students reject the idea |
 | Below 50% | Stop and rethink the venture. Do not build | If a human hand-picking from verified openings cannot reach half, an automated version will not, and the verified shortlist promise fails at its foundation |
 
@@ -49,7 +49,7 @@ Set on 7 October 2026, before any student had been shown a shortlist. One metric
 
 Writing the expectation down first makes the result falsifiable rather than reinterpretable afterwards.
 
-We expect a median fit rate between 50 and 70%, and we expect the Capital One card to be the most rejected one, because its sophomore-only requirement is a hard eligibility gate that our matching never looked at. If that card is rejected most often, the lesson is about eligibility fields, not about trust. If instead the rejections spread evenly across cards, the lesson is that the whole matching approach is too coarse.
+We expect a median fit rate between 50 and 69%, and we expect the Capital One card to be the most rejected one, because its sophomore-only requirement is a hard eligibility gate that our matching never looked at. If that card is rejected most often, the lesson is about eligibility fields, not about trust. If instead the rejections spread evenly across cards, the lesson is that the whole matching approach is too coarse.
 
 ## Results
 

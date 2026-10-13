@@ -78,9 +78,9 @@ Four real students, recruited through our own networks, answering about their ow
 
 **Interview 01 said he would stop trusting a site that showed him any unsuitable job. Round 1 says nobody is that strict.** Not one of the four chose 1 or 2 unsuitable suggestions as their limit; two chose 3 to 5 and two chose more than 5.
 
-Both sources are real students. We are not averaging them into a middle number. The contradiction is recorded as a contradiction, and resolving it is now an explicit job for the seven interviews: ask what the limit is, and ask it after the student has seen a real shortlist rather than in the abstract, because a tolerance stated in a survey and a tolerance observed in front of six real job cards are not the same measurement.
+Both sources are real students. We are not averaging them into a middle number. The contradiction is recorded as a contradiction, and resolving it is now an explicit job for the seven interviews: ask what the limit is, and ask it after the student has seen a real shortlist rather than in the abstract, because a tolerance stated in a survey and a tolerance observed in front of five real job cards are not the same measurement.
 
-Note what this does **not** change: accuracy is still the first thing all four named. The question is how steep the cliff is, not whether accuracy is the thing.
+Note what this does **not** change: accuracy is still the one thing all four named. The question is how steep the cliff is, not whether accuracy is the thing.
 
 ### What it works against
 

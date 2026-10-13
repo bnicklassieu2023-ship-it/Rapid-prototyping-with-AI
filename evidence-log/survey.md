@@ -137,7 +137,7 @@ Each rule was fixed before any answer arrived. The reading is recorded even wher
 
 | Rule | Threshold | Round 1 | Fires? | What we did |
 |---|---|---|---|---|
-| Accuracy in the top three for trust (Q6) | 60% or more | 4 of 4 | Numerically yes | **No change.** Accuracy was already the Raise row. Round 1 is consistent with it, and the Raise row continues to rest on interview 01 and test run 01, not on four survey answers |
+| Accuracy in the top three for trust (Q6) | 60% or more | 4 of 4 | Numerically yes | **No change.** The rule predates the 6 October ERRC decision that made the Raise row verification depth rather than match accuracy; accuracy remains our riskiest assumption. Round 1 is consistent with it, and it continues to rest on interview 01 and test run 01, not on four survey answers |
 | Tolerance for unsuitable matches (Q7) | 50% or more answer 1 or 2 | 0 of 4 | **No** | The 70% fit-rate bar in experiment-card.md **stays as it is**. See the contradiction below |
 | Explanation ranks above accuracy (Q6) | If it does | Accuracy 4, explanation 3 | **No** | Our v0.3 choice of accuracy survives its first external check. Explanation stays a feature, not the metric |
 | Would use it through the university (Q9) | 50% or more | 4 of 4 | Numerically yes | Channel direction supported. The **price** in Funnel B is still contradicted by test run 02 and that is unaffected by this |
@@ -150,7 +150,7 @@ Each rule was fixed before any answer arrived. The reading is recorded even wher
 
 The honest reading has two parts and we are not allowed to use only the comfortable one. The charitable part: all four are bachelor students, three aged 21 or under, so they are earlier in the search than interview 01 and the pattern may appear later. The uncomfortable part: we built an opportunity on one student's experience and the first four people we asked do not look like him. Until the interviews say otherwise, "students apply at high volume and are not hired" is an assumption about a **segment we have not defined**, not a description of students in general.
 
-**2. Students tolerate more bad matches than our strategy assumes.** Interview 01's condition for trust was being shown no unsuitable job at all. Nobody in round 1 chose 1 or 2. All four chose 3 to 5 or more than 5. Accuracy still ranks first as a reason to trust, but the cliff is nothing like as steep as we had been designing against. That is a direct contradiction between our two real-user sources, it is recorded rather than averaged away, and it is a question for the seven interviews.
+**2. Students tolerate more bad matches than our strategy assumes.** Interview 01's condition for trust was being shown no unsuitable job at all. Nobody in round 1 chose 1 or 2. All four chose 3 to 5 or more than 5. Accuracy is still the most chosen reason to trust, but the cliff is nothing like as steep as we had been designing against. That is a direct contradiction between our two real-user sources, it is recorded rather than averaged away, and it is a question for the seven interviews.
 
 **3. Privacy ranks last but one.** Only one of four picked "my data stays private" as a trust factor. We have just written a privacy position into [privacy.md](privacy.md). Round 1 says that position is a principle we hold, not a demand we discovered, and it should be presented that way rather than as something students asked for.
 

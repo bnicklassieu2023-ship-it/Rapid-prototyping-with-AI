@@ -52,4 +52,4 @@ The previous wording, "at least 70% of testers say they would use it as a first 
 
 Twelve page checks produced five usable openings. Verification is not a feature, it is a unit cost, and it appears nowhere in either funnel in market-research.md. Before the next funnel revision, somebody has to put a number on it.
 
-**Open from the Persona rehearsal:** five or six results may read as a weak search rather than a careful one. The interviews ask what number feels like a real search.
+**Open from the Persona rehearsal:** five results may read as a weak search rather than a careful one. The interviews ask what number feels like a real search.

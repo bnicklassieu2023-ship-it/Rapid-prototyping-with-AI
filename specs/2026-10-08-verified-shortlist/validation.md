@@ -34,7 +34,7 @@ The graded feedback said: make the metric measure one thing. The previous card h
 
 So that we cannot claim afterwards that we knew.
 
-- We expect a fit rate between 50 and 70%, that is, a near miss rather than a clean pass, because the matching is being done by hand against four answers.
+- We expect a fit rate between 50 and 69%, that is, a near miss rather than a clean pass, because the matching is being done by hand against four answers.
 - We expect the rejection reasons to be more useful than the number.
 - We expect at least one student to reject an opening for a reason none of our four questions could have caught, and that reason to become a fifth question.
 
@@ -45,7 +45,7 @@ So that we cannot claim afterwards that we knew.
 | A verified shortlist of five can be assembled by hand | **OBSERVED.** 12 candidates checked, 5 passed all four criteria | [run 01](../../evidence-log/test-runs/run-01-shortlist-feasibility.md) |
 | Model judgement of "still open" is unreliable | **OBSERVED.** Wrong on 2 of the 3 postings it read | run 01 |
 | Live postings include dead links | **OBSERVED.** 2 of 12, HTTP 410 and HTTP 404 | run 01 |
-| Accuracy is the first trust condition students name | **REPORTED, n=4.** The only option all four chose | [survey.md](../../evidence-log/survey.md) round 1 |
+| Accuracy is the trust condition students name most | **REPORTED, n=4.** The only option all four chose | [survey.md](../../evidence-log/survey.md) round 1 |
 | Students would use this free through their university | **REPORTED, n=4.** 4 of 4 | survey.md round 1 |
 | The university price is about 18,000 dollars a year | **CONTRADICTED.** Handshake charges about 8,000 | [run 02](../../evidence-log/test-runs/run-02-does-this-already-exist.md) |
 | Employers cannot buy placement is a real differentiator | **SUPPORTED from outside.** Handshake is rolling out paid employer promotion in student feeds, beta, about 30 employers | run 02 |

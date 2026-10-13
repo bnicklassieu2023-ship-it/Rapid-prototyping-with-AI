@@ -37,7 +37,7 @@ This is the build rule the project runs on, and it came out of our own test, not
 
 **The AI may:** draft text, search for candidate postings, extract fields from a posting it has fetched, write the code, and write the explanation lines.
 
-**The AI may not:** decide whether a posting is still open. In run 01 the model misread posting status on 2 of the 3 postings it was asked to read, including declaring a page live that returned HTTP 410. That judgement is taken away from the model entirely and replaced with a fetched status code and a parsed date. Any future build that gives it back has to argue against this paragraph.
+**The AI may not:** decide whether a posting is still open. In run 01 the model misread posting status on 2 of the 3 postings it was asked to read, calling the Boeing posting closed when its deadline was over two weeks away, and the Endeavor posting expired on a day it was still open. That judgement is taken away from the model entirely and replaced with a fetched status code and a parsed date. Any future build that gives it back has to argue against this paragraph.
 
 **The AI may never:** stand in for a student. The three personas in [personas/](../../evidence-log/personas/) are a rehearsal device and are labelled as counting for nothing. No persona output appears in any result table in this repository.
 

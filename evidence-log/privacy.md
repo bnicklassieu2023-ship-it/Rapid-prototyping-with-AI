@@ -23,7 +23,7 @@ Nothing is built. There is no prototype and no software of any kind in this repo
 | Commitment | Status | Where |
 |---|---|---|
 | No secrets or keys in the repository | **Done** | `.gitignore`, added 7 October 2026, and the production principles in `AGENTS.md` |
-| Interview and survey consent recorded before filming | **Built** | `recruitment.md`, `survey.md` |
+| Interview and survey consent recorded before filming | **Built** | `recruitment.md` |
 | The survey collects an email only if the student volunteers it for a follow up interview | **Built** | Question 11, optional |
 
 ## What is a position, not yet a product
@@ -44,7 +44,7 @@ These are written down now so that the first version that does store something h
 | Open question | How it gets answered |
 |---|---|
 | Does the four question version actually produce an acceptable shortlist, or does accuracy need the CV after all? | [Test run 03](test-runs/run-03-student-trust-test.md). If the fit rate fails at 50 to 69%, the first thing to check is whether the missing information was the cause |
-| Would students share more for better matches, and where is the line? | Survey question "which of these would you share", and the open objection question. Any privacy objection raised by three or more respondents becomes a named risk in `assumptions.md` |
+| Would students share more for better matches, and where is the line? | The seven interviews, since the "which data would you share" question was cut from the survey, and the survey's open objection question. Any privacy objection raised by three or more respondents becomes a named risk in `assumptions.md` |
 | Does a university careers office have a data position we would have to meet? | Added to the careers office script in `careers-office-outreach.md` |
 | Does "we hold nothing" read as trustworthy or as unserious to a student? | Ask it in the trust test sessions, recorded as context, not scored |
 

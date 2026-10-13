@@ -56,4 +56,4 @@ Each line is here because somebody will otherwise suggest it.
 
 ## The sample this rests on, stated plainly
 
-One interview, four survey responses on our own form, two desk runs, and three AI personas that count as nothing. Round 2 of the survey has not been merged. Every requirement labelled REPORTED above rests on four people, and the two labelled ASSUMPTION rest on nobody.
+One interview, four survey responses on our own form, two desk runs, and three AI personas that count as nothing. Round 2 of the survey has not been merged. Every requirement labelled REPORTED above rests on four people, and the one labelled ASSUMPTION rests on nobody.

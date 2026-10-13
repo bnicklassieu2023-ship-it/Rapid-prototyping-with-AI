@@ -44,7 +44,7 @@ Round 1, n=4, our own form. Counts and the full read-out are in [survey.md](surv
 |---|---|---|
 | Push: high effort without the result | Partly supported by interview 01 and NACE 2025 | **CHALLENGED.** 2 of 4 sent five applications or fewer, and 2 of 4 have been hired through a platform. Only one respondent resembles interview 01 |
 | Solution hired: applying at high volume | Partly supported by interview 01 | **CHALLENGED by the same counts.** High volume is not what these four did |
-| Pull: a shortlist where every job fits | Partly supported by interview 01 | **SUPPORTED, consistently.** All 4 named "every job shown actually fits my profile" as a trust condition, the only option all four chose |
+| Pull: a shortlist where every job fits | Partly supported by interview 01 | **CONSISTENT, not confirmed (n=4).** All 4 named "every job shown actually fits my profile" as a trust condition, the only option all four chose |
 | Anxiety: a new tool will show irrelevant jobs | Interview 01 (n=1) | **WEAKENED in degree, not in kind.** Nobody chose 1 or 2 bad matches as their limit; all 4 chose 3 to 5 or more. The fear is real, the trigger point is further out than interview 01 implied |
 | Anxiety: reluctance to share personal information | Not yet checked | **Checked, and small.** Only 1 of 4 picked privacy as a trust factor |
 | Trigger | OPEN GAP | **Still an open gap.** The trigger question was cut from the short survey. It goes to the interviews |

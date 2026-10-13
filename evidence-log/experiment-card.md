@@ -88,7 +88,7 @@ Trust. Not intended use. The reasoning for choosing trust is in [assumptions.md]
 
 ### Hypothesis
 
-If we show a student six openings chosen for the profile they gave us, each one verified as real and each carrying one line on why it is there, then the student will mark at least seven in ten of them as fitting.
+If we show a student five openings chosen for the profile they gave us, each one verified as real and each carrying one line on why it is there, then the student will mark at least seven in ten of them as fitting.
 
 ### The experiment
 
@@ -111,7 +111,7 @@ One number per student. The result is the **median fit rate across students**. N
 
 | Median fit rate | Decision |
 |---|---|
-| 70% or above | Accuracy holds at the manual stage. Continue to Step 2 of the roadmap |
+| 70% or above | Accuracy holds at the manual stage. Continue to building Step 1 of the roadmap, Phase B of [plan.md](../specs/2026-10-08-verified-shortlist/plan.md), Session 16 at the earliest |
 | 50% to 69% | The concept survives, the matching rule does not. Rewrite the matching criteria from the rejection reasons and re-run this same test before building anything |
 | Below 50% | Stop and rethink the venture. If a human hand picking from verified openings cannot reach half, an automated version will not, and the verified shortlist promise fails at its foundation |
 
@@ -123,7 +123,7 @@ This is the single most important change in v0.2. The previous card had two succ
 
 ### What we expect, written down before the test
 
-We expect a median fit rate between 50 and 69%, and we expect the Capital One Analyst Early Internship card to be the most rejected, because its sophomore only requirement is a hard eligibility gate our matching never looked at. If that card drives the rejections, the lesson is about eligibility fields. If rejections spread evenly across all six, the lesson is that the whole matching approach is too coarse. Writing this down first is what makes the result falsifiable instead of reinterpretable afterwards.
+We expect a median fit rate between 50 and 69%, and we expect the Capital One Analyst Early Internship card to be the most rejected, because its sophomore only requirement is a hard eligibility gate our matching never looked at. If that card drives the rejections, the lesson is about eligibility fields. If rejections spread evenly across all five, the lesson is that the whole matching approach is too coarse. Writing this down first is what makes the result falsifiable instead of reinterpretable afterwards.
 
 ### Status
 

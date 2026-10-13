@@ -26,8 +26,8 @@ A feature comparison would have told us what we already knew, that every incumbe
 
 ## What this supports
 
-- **The Eliminate row is a real differentiator with a date on it.** The strongest incumbent is actively building the thing we propose to remove, and plans to roll it out in early 2026. We are not removing a feature nobody wanted; we are removing the direction the category is moving in. That is a sharper position than we had before this run.
-- **Nobody publicly claims verification.** Jobright's public pitch is volume and speed, 400,000 posts a day and applications filled in automatically. Volume and verification pull against each other. Combined with test run 01, where 5 of 8 candidates failed verification, the Raise row stands.
+- **The Eliminate row is a real differentiator with a date on it.** The strongest incumbent is actively building the thing we propose to remove, and planned to roll it out in early 2026. We are not removing a feature nobody wanted; we are removing the direction the category is moving in. That is a sharper position than we had before this run.
+- **Nobody publicly claims verification.** Jobright's public pitch is volume and speed, 400,000 posts a day and applications filled in automatically. Volume and verification pull against each other. Combined with test run 01, where 7 of 12 candidates failed verification, the Raise row stands.
 
 ## What this works against us
 

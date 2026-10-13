@@ -36,6 +36,6 @@ The course lists ten production principles and says three apply from the first d
 
 The remaining seven (separation of concerns, explicit contracts, fail fast, environment discipline, DRY, determinism, traceability of artifacts) tighten as the prototype matures, from the first working skeleton onwards.
 
-## Current state, 7 October 2026
+## Current state, 8 October 2026
 
-Evidence is complete through Group Project I. The constitution is at version 0.1 and carries open decisions, including five unanswered tech-stack questions. No feature has been specified and no code is written before the Session 15 gate.
+Evidence is complete through Group Project I. The constitution is at version 0.1 and carries open decisions, including five unanswered tech-stack questions. One feature has been specified, in `specs/2026-10-08-verified-shortlist/`, and nothing is built. No code is written before the Session 15 gate, and `prototype/` stays empty until the build starts in Session 16.

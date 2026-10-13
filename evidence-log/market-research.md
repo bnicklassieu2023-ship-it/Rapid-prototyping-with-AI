@@ -51,7 +51,7 @@ Claim, evidence, source, strength, contradiction or gap, implication.
 | One third of graduating seniors used AI in their job search | 33% used it, 67.1% did not | NACE 2025 Student Survey, 1,479 graduating seniors | Medium | Seniors only, and attitudes are moving fast | Treat 33% as the early-adopter ceiling, not a trend line |
 | Students who avoid AI do so mainly on ethics and skill, not indifference | 28.9% ethics, 24.6% lack of expertise, 15.9% fear employers notice | NACE 2025 Student Survey | Medium | Those reasons concern AI writing for them, not AI filtering for them | Position as a filter that never writes on their behalf, and say so in the product copy |
 | The early-career market is genuinely hard right now | 5.6% unemployment and 42% underemployment for recent graduates, Q2 2026 | Federal Reserve Bank of New York | Strong | Hardship does not prove demand for our tool | Use as urgency in the press release, never as evidence of demand |
-| Handshake is the incumbent inside US careers offices | 18M students across 1,200 institutions | Company figures reported 2021, most recent published | Weak and dated | No public pricing, and the figure is five years old | Assume incumbency in the channel and test switching directly |
+| Handshake is the incumbent inside US careers offices | 18M students across 1,200 institutions | Company figures reported 2021, most recent published | Weak and dated | No pricing published by Handshake, and the figure is five years old. Test run 02 found a reported university price of about 8,000 dollars a year | Assume incumbency in the channel and test switching directly |
 | Students send about 30 applications per role | Class of 2025 averages | NACE 2025 | Medium | An average hides heavy variance | Basis for the time-value calculation below |
 | Trust starts with accuracy rather than explanation | One student: hundreds of applications, interviews, never hired through a platform; would trust a tool that shows no unsuitable jobs | Our interview 01, n=1 | Very weak | A single interview, and conducted in Europe | The live survey measures it; see survey.md |
 | University careers offices will adopt a second tool alongside Handshake | None | No evidence | None | This is the assumption the partnership funnel rests on | Next test: two careers-office conversations |
@@ -73,7 +73,7 @@ Claim, evidence, source, strength, contradiction or gap, implication.
 
 | Bet | Hypothesis | Method | Metric | Threshold | Decision rule |
 |---|---|---|---|---|---|
-| Direct competitors | Students will use an accurate shortlist instead of Handshake's feed as their first filter | Prototype test with 5 to 8 US-relevant students, each marking every recommendation as fits me or does not fit me | Share using it as a first filter; share of matches rejected | 70% first-filter use; most matches accepted | Met: keep the accuracy wedge. Missed: fix matching before building anything else |
+| Direct competitors | Students will use an accurate shortlist instead of Handshake's feed as their first filter | Student trust test with 7 students, each marking every recommendation as fits me or does not fit me, test run 03 | Fit rate. First-filter use is asked and recorded, not scored (experiment-card.md v0.2) | Median fit rate of at least 70% | Met: keep the accuracy wedge. Missed: fix matching before building anything else |
 | Indirect substitutes | A filtered shortlist beats asking a chatbot | Same student runs one search with ChatGPT and one with our shortlist | Usable roles found; time spent | Our shortlist produces more usable roles in less time for 4 of 7 | Met: position against chatbots on repeatability. Missed: our advantage is not the matching, rethink |
 | Manual workaround | Students will trade volume for fit | Interview question on applications sent versus interviews obtained, plus survey Q4 and Q5 | Share reporting high volume and no hire | Half or more | Met: the push force generalises beyond interview 01. Missed: our problem statement is weaker than we thought |
 | Doing nothing and the channel | A careers office will promote a second tool | Two interviews with US careers-office staff about how they adopted their last tool | Willingness to pilot; stated procurement path | At least one says yes to a pilot | Met: the partnership funnel stays. Missed: the partner route is blocked and the direct funnel is all we have |
@@ -139,7 +139,7 @@ Scenario assumptions. None of the partnership numbers below is evidence. They ar
 | Year 2 | 15 | 300,000 | 18,000 | 10,800 | 0.4% | about 810,000 dollars |
 | Year 3 | 50 | 1,000,000 | 60,000 | 36,000 | 1.3% | about 2.7M dollars |
 
-**Revenue scenario, if universities pay:** at an assumed 18,000 dollars per campus per year, 54,000 dollars in year one, 270,000 in year two, 900,000 in year three. Handshake does not publish institutional pricing, so this number is the weakest figure on the page and we say so.
+**Revenue scenario, if universities pay:** at an assumed 18,000 dollars per campus per year, 54,000 dollars in year one, 270,000 in year two, 900,000 in year three. Handshake does not publish institutional pricing, so this number is the weakest figure on the page and we say so. **CONTRADICTED by test run 02:** Handshake is reported to charge universities about 8,000 dollars a year, so this revenue line has to be rebuilt or defended.
 
 **Tightest filter:** whether the careers office actually promotes the tool. If promotion reaches 20% rather than 60%, year three active users fall from 36,000 to about 12,000.
 
@@ -176,7 +176,7 @@ Scenario assumptions. None of the partnership numbers below is evidence. They ar
 
 - Four of the seven filters in Funnel A, and every number in Funnel B, are assumptions rather than sources.
 - Our survey respondents are mostly students in Spain. The team decided to treat their behaviour as a proxy for US students. That is an explicit assumption, not a finding, and it is the first thing we would re-test with US respondents.
-- Handshake's scale figure is from 2021 and its pricing is not public.
+- Handshake's scale figure is from 2021 and its pricing is not published by the company; test run 02 found a reported figure of about 8,000 dollars a year.
 - Market research here establishes what exists in the market, not what our users do.
 
 ## Sources

@@ -16,6 +16,6 @@ The full entry is number 19 in [../evidence-log/decision-log.md](../evidence-log
 
 The graded feedback scored Rough Test 0 out of 0.8 with "add the actual rough prototype and a backup". That is still owed, and it is not answered by anything in this folder.
 
-The rough prototype for [test run 03](../evidence-log/test-runs/run-03-student-trust-test.md) will be a sketch of six cards, one per verified opening found in [test run 01](../evidence-log/test-runs/run-01-shortlist-feasibility.md), made by the team and shown to students on paper or on a slide. It does not need to be built software, and the course is explicit that no major build is needed to start testing.
+The rough prototype for [test run 03](../evidence-log/test-runs/run-03-student-trust-test.md) will be a sketch of five cards, one per verified opening found in [test run 01](../evidence-log/test-runs/run-01-shortlist-feasibility.md), made by the team and shown to students on paper or on a slide. It does not need to be built software, and the course is explicit that no major build is needed to start testing.
 
 Until that sketch exists, the student trust test is designed and not runnable, and the repository says so rather than implying otherwise.

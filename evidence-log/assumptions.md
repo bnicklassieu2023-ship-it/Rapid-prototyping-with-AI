@@ -83,7 +83,7 @@ One claim. It is about **trust**, not about intended use.
 
 1. **It is upstream.** A student cannot use a list they do not believe. Intended use is downstream of accuracy, so testing use first measures the far end of a chain whose near end is untested. If trust fails, use cannot follow. If trust holds and use does not, we have a different and much smaller problem, about packaging and distribution.
 2. **It is the only one of the two our strategy rests on.** Our ERRC grid eliminates employer influence and raises verification depth. Both are trust moves. If accuracy turns out not to matter to students, the entire grid is answering a question nobody asked, and the venture has no reason to exist. Intended use, by contrast, can be bought with marketing by anyone, which is why it does not differentiate us.
-3. **It is observable rather than claimed.** "Would you use this?" costs a student nothing to say yes to, and students say yes to be kind. "Does this specific opening fit you?" is a judgement about a real thing in front of them, made six times, that produces a number we did not choose.
+3. **It is observable rather than claimed.** "Would you use this?" costs a student nothing to say yes to, and students say yes to be kind. "Does this specific opening fit you?" is a judgement about a real thing in front of them, made five times, that produces a number we did not choose.
 4. **The one real student we have named it first, unprompted.** Asked when he would start trusting a new site, he said: if, when he gives it the relevant information, it does not show him jobs that do not suit his profile or interests. He did not say "if it explains itself" and he did not say "if it is easy to use". See [user-feedback.md](user-feedback.md).
 
 ### What happens to intended use
@@ -99,7 +99,7 @@ It stays on this list as an assumption. It is **not** being tested now, and noth
 | 3 | Trust depends on showing no opening that does not fit | Folded into 1. This is what accuracy means for us |
 | 4 | Explanations build trust | CHALLENGED by interview 01 and now deliberately not load bearing. Each card carries one line of reasoning, but the metric does not score it |
 | 5 | Students are willing to upload CV and profile data | **Actively avoided**, not assumed. The prototype asks four questions and no CV. See [privacy.md](privacy.md) |
-| 6 | Verified openings are scarce enough to be worth paying for | **SUPPORTED by a run of our own**: 7 of 12 candidates failed verification, test run 01 |
+| 6 | Verified openings are scarce enough to be worth paying for | **Scarcity SUPPORTED by a run of our own**: 7 of 12 candidates failed verification, test run 01. Whether that is worth paying for is untested |
 | 7 | A university would pay about 18,000 dollars a year | **CONTRADICTED**, see below |
 | 8 | A US careers office will adopt a second tool alongside Handshake | No evidence at all. Funnel B rests on it entirely |
 | 9 | Students want to be told which entry level roles are shrinking | ASSUME, our Create row. Survey question 10 |
@@ -122,8 +122,8 @@ Round 1, n=4. See [survey.md](survey.md) for the counts and [user-feedback.md](u
 
 | # | Assumption | Change after round 1 |
 |---|---|---|
-| 1 | Students will judge an AI-built shortlist as accurate | **Still the riskiest, unchanged.** All 4 named accuracy as their first trust condition, which is consistent with our v0.3 choice. Still untested with a real shortlist |
-| 3 | Trust depends on showing no opening that does not fit | **WEAKENED.** 0 of 4 said one or two bad matches would break their trust; all 4 chose 3 to 5 or more. Accuracy ranks first, but the absolute version of this assumption, which came from interview 01, is not supported |
+| 1 | Students will judge an AI-built shortlist as accurate | **Still the riskiest, unchanged.** All 4 picked accuracy as a trust condition, the only option all four chose, which is consistent with our v0.3 choice. Still untested with a real shortlist |
+| 3 | Trust depends on showing no opening that does not fit | **WEAKENED.** 0 of 4 said one or two bad matches would break their trust; all 4 chose 3 to 5 or more. Accuracy is the most chosen trust condition, but the absolute version of this assumption, which came from interview 01, is not supported |
 | 5 | Students are willing to upload CV and profile data, which we avoid | **Reframed.** Only 1 of 4 picked privacy as a trust factor. Our data position is a principle we chose, not a demand students expressed, and it is presented that way |
 | 9 | Students want to be told which entry-level roles are shrinking | Consistent: 4 of 4 said it would change what they apply for. Still bounded by what spike-shift-monitor.md says is buildable |
 | 8 | A US careers office will adopt a second tool alongside Handshake | Unchanged. 4 of 4 students would use it through their university, which says nothing about whether a careers office would buy it. Still no evidence at all on the office side |

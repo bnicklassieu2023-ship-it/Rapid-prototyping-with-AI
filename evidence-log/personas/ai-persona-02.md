@@ -50,7 +50,7 @@ Transparency, time saving, relevance
 
 ## Link to our riskiest assumption
 
-Our riskiest assumption is that users will trust and use AI-generated recommendations as a first step. Karim is the persona most likely to prove it wrong, so he is critical to test.
+Our riskiest assumption, v0.3, is that students will judge an AI-built shortlist as accurate. Karim is the persona most likely to prove it wrong, so he is critical to test.
 
 ## Evidence boundary
 

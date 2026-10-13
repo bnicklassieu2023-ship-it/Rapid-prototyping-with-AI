@@ -14,7 +14,7 @@ It exists because a venture log that only records what we built reads as a list 
 - **Why:** we needed a first statement of the problem and a riskiest assumption before anything could be tested.
 - **What we wanted to validate:** nothing yet. This step produced the claims that everything later would test.
 - **Result:** a working opportunity statement, an assumption map, and a riskiest assumption: "users will trust and use AI-generated opportunity recommendations as a first step."
-- **Right or wrong:** the framing held, but the riskiest assumption was two assumptions joined by an "and". That flaw survived until 7 October and cost us marks. See entry 15.
+- **Right or wrong:** the framing held, but the riskiest assumption was two assumptions joined by an "and". That flaw survived until 7 October and cost us marks. See entry 14.
 - **Cut or added:** added the first evidence log. Nothing cut yet.
 
 ## 2. Job to Be Done
@@ -32,7 +32,7 @@ It exists because a venture log that only records what we built reads as a list 
 - **Why:** to decide who we were building for before testing anything.
 - **What we wanted to validate:** whether our target split into distinguishable types.
 - **Result:** six persona hypotheses drafted, three selected: the Mass Applier, the Sceptic, the Starter.
-- **Right or wrong:** partly wrong, and only found out much later. Survey round 1 showed one respondent of four resembling the Mass Applier. See entry 19.
+- **Right or wrong:** partly wrong, and only found out much later. Survey round 1 showed one respondent of four resembling the Mass Applier. See entry 18.
 - **Cut or added:** cut three of six drafts. Kept all six in `personas/drafts/` so the discarded ones stay visible.
 
 ## 4. Interview 01, filmed, with a real student
@@ -42,7 +42,7 @@ It exists because a venture log that only records what we built reads as a list 
 - **What we wanted to validate:** what makes a student trust a job site, and whether high application volume really fails to convert.
 - **Result:** he had sent hundreds of applications, got interviews, and had never been hired through a job site. His condition for trusting a new site was being shown no job that did not suit him.
 - **Right or wrong:** it contradicted us. We had assumed explanations build trust. He named accuracy instead.
-- **Cut or added:** cut "explanations earn trust" from the centre of the venture. Added accuracy as the trust condition, which eventually became the riskiest assumption in entry 15.
+- **Cut or added:** cut "explanations earn trust" from the centre of the venture. Added accuracy as the trust condition, which eventually became the riskiest assumption in entry 14.
 
 ## 5. Venture Skeleton v0.1
 **Session 8, 22 September 2026.**
@@ -59,7 +59,7 @@ It exists because a venture log that only records what we built reads as a list 
 - **Why:** we could not claim a gap without knowing what already existed.
 - **What we wanted to validate:** whether anyone already does verified, employer-neutral shortlists.
 - **Result:** a four-category alternatives map: direct competitors, substitutes, manual workarounds, doing nothing.
-- **Right or wrong:** directionally right, but it was a desk scan of other people's descriptions. Re-run properly on 7 October, see entry 17.
+- **Right or wrong:** directionally right, but it was a desk scan of other people's descriptions. Re-run properly on 7 October, see entry 16.
 - **Cut or added:** added "doing nothing" as the real competitor, which we had been ignoring.
 
 ## 7. Market moved from Europe to the United States
@@ -77,7 +77,7 @@ It exists because a venture log that only records what we built reads as a list 
 - **Why:** the course requires a strategy statement, and we needed to say what we would deliberately not do.
 - **What we wanted to validate:** whether our four moves were genuinely different from the incumbents.
 - **Result:** Eliminate employer influence, Reduce breadth of listings, Raise verification depth, Create an entry-level shift monitor.
-- **Right or wrong:** three of four have survived contact with evidence. The Reduce row has since been challenged by a real respondent who asked for the opposite. See entry 19.
+- **Right or wrong:** three of four have survived contact with evidence. The Reduce row has since been challenged by a real respondent who asked for the opposite. See entry 18.
 - **Cut or added:** added the grid. Cut nothing yet, and the Reduce row is now openly under question rather than quietly defended.
 
 ## 9. Survey built, then cut from 20 questions to 11
@@ -104,8 +104,8 @@ It exists because a venture log that only records what we built reads as a list 
 - **Why:** the course defines one repository with three layers of truth.
 - **What we wanted to validate:** nothing. This was compliance with a required structure.
 - **Result:** evidence-log, specs, AGENTS.md and agents/ in place.
-- **Right or wrong:** right, and worth noting we got the structure right while getting the contents of `prototype/` wrong. See entry 20.
-- **Cut or added:** renamed `interview-evidence.md` to `user-feedback.md` and updated every reference. Added `.gitignore` so no key can be committed.
+- **Right or wrong:** right, and worth noting we got the structure right while getting the contents of `prototype/` wrong. See entry 19.
+- **Cut or added:** renamed `interview-evidence.md` to `user-feedback.md` and updated every reference. A `.gitignore` followed on 7 October so no key can be committed.
 
 ## 12. Persona Agent rehearsal
 **6 October 2026.** Prompted by the professor's question in class.
@@ -131,7 +131,7 @@ It exists because a venture log that only records what we built reads as a list 
 - **Why:** the feedback said to pick trust or intended use and carry one through.
 - **What we wanted to validate:** which of the two is actually upstream.
 - **Result:** we chose trust. A student cannot use a list they do not believe, our whole ERRC grid is a trust strategy, and accuracy is observable where intended use is merely claimed.
-- **Right or wrong:** externally checked on 7 October. All four survey respondents named accuracy first, so the choice survived its first test.
+- **Right or wrong:** externally checked on 7 October. All four survey respondents picked accuracy as a trust condition, the only option all four chose, so the choice survived its first test.
 - **Cut or added:** cut the word "use" from the assumption, the sprint goal, the metric and the decision rule. Cut the second success signal from the experiment card. Added one metric, the fit rate, and a three-branch decision rule on that single number. "Would you use this?" is still asked and deliberately not scored.
 
 ## 15. Test run 01, can a verified shortlist be built by hand?
@@ -158,7 +158,7 @@ It exists because a venture log that only records what we built reads as a list 
 - **Why:** the feedback asked directly how we handle privacy and data sharing, and we had no answer anywhere.
 - **What we wanted to validate:** whether a useful shortlist can be built without a CV.
 - **Result:** a position: ask the least that makes a shortlist possible, and hold almost nothing.
-- **Right or wrong:** partly undercut two days later. Only 1 of 4 survey respondents picked privacy as a trust factor, so this is a principle we hold rather than a demand students expressed. The file now says that.
+- **Right or wrong:** partly undercut the same day. Only 1 of 4 survey respondents picked privacy as a trust factor, so this is a principle we hold rather than a demand students expressed. The file now says that.
 - **Cut or added:** added the position. Cut the earlier assumption that we would need CV uploads.
 
 ## 18. Survey round 1 read against the pre-set rules
@@ -166,7 +166,7 @@ It exists because a venture log that only records what we built reads as a list 
 
 - **Why:** the rules were fixed in advance, so the data had to be read against them whatever it said.
 - **What we wanted to validate:** six pre-committed thresholds covering trust, tolerance, channel and the Create row.
-- **Result:** accuracy named first by all four. Nobody chose 1 or 2 as their tolerance for bad matches. All four would use it free through their university. Two of four had already been hired through a platform.
+- **Result:** accuracy picked by all four, the only option all of them chose. Nobody chose 1 or 2 as their tolerance for bad matches. All four would use it free through their university. Two of four had already been hired through a platform.
 - **Right or wrong:** our trust assumption held. Our push force did not. Interview 01 and the survey now contradict each other on tolerance, and we kept the contradiction rather than averaging it.
 - **Cut or added:** cut "students apply at high volume and still do not get hired" from a stated fact to a CHALLENGED assumption about a segment we have not defined. Cut the Job to Be Done circumstance down to an open question. Added three new risks from the written objections, the sharpest being that employers are starting to refuse applications made through agencies or AI tools.
 - **Not actioned:** no threshold rule was applied, because the stop condition we set in advance says a sample under 20 is reported as weak rather than presented as percentages.
@@ -179,3 +179,21 @@ It exists because a venture log that only records what we built reads as a list 
 - **Result:** `prototype/index.html`, the scoring sheet and the earlier v0.1 PDF and PNG removed, the folder returned to empty, and every claim that a built prototype exists stripped from the other files.
 - **Right or wrong:** we were wrong to have it there, and wrong in a way that mattered: the repository claimed an artefact the team had not made. Forward-looking references to a prototype we intend to test with are correct and were kept.
 - **Cut or added:** cut the prototype and all claims arising from it. The Rough Test criterion from the graded feedback still needs an answer, and it will be a sketch shown on the day rather than a built page in this folder.
+
+## 20. Feature specification for Step 1, the verified shortlist
+**8 October 2026.** Session 13 structure, `specs/2026-10-08-verified-shortlist/`.
+
+- **Why:** Step 1 of the roadmap needed a specification the team had argued about before anything is built, rather than a prompt typed in the moment when the build starts.
+- **What we wanted to validate:** nothing yet. This step fixes in advance what Step 1 must do and how it passes or fails; run 03 is what tests it.
+- **Result:** three files. `requirements.md` sets ten requirements, R1 to R10, each labelled with its source. `plan.md` runs the paper test first (Phase A) and builds only on a median fit rate of 70% or above (Phase B, Session 16 at the earliest). `validation.md` carries the one metric, the pre-committed decision rule and the stop conditions.
+- **Right or wrong:** too early to say. Phase A has not started: the five cards and the tally sheets are not made, and 0 of 7 students have been seen.
+- **Cut or added:** added the specification. Cut from Step 1, in writing: writing applications, any employer-facing surface, accounts and persistence, university integration, and the shift monitor. Added the rule that the AI may never decide whether a posting is still open.
+
+## 21. Consistency pass across the repository
+**13 October 2026.** Tool: Claude Code.
+
+- **Why:** a full read of the repository found files contradicting each other: run 01 reported as 5 of 12 in one place and 3 of 8 in another, five cards against six, two different decisions for a passing fit rate, and decision log references pointing one entry too far.
+- **What we wanted to validate:** nothing. This is a correction, and no idea or decision was changed by it.
+- **Result:** 64 lines aligned across 23 files, each replaced in place, with no file added or removed. Survey claims now say accuracy was the only option all four chose rather than that it was named first, because question 6 was pick up to three, not a ranking.
+- **Right or wrong:** six items could not be aligned without changing content, and are left for the team: the Capital One sophomore-only card marked PASS against a junior test profile, card deadlines that pass before the test date, two vocabularies of claim labels, run 03's protocol leaving no time for the interview questions, the fixed cards fitting only one profile, and the superseded wording kept on purpose as audit trail.
+- **Cut or added:** added this entry and entry 20, and the matching rows in ai-usage-log.md. Nothing cut.

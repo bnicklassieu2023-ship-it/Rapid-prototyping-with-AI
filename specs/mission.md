@@ -8,11 +8,11 @@ US undergraduates apply to everything because they cannot tell where they have a
 
 ## Promise
 
-Every opening we show is checked as real, still open and explicit about work authorisation, and carries a plain reason why it fits and what does not [Team decision: evidence-log/ERRC.md, Raise]. We show far fewer jobs on purpose [Team decision: Reduce]. Nothing appears because an employer paid for it [Team decision: Eliminate].
+Every opening we show is checked as a real, live posting, shows its own stated deadline rather than a guess that it is still open, quotes the employer's work authorisation position, and carries a plain reason why it fits and what does not [Team decision: evidence-log/ERRC.md, Raise, revised by test run 01 in specs/roadmap.md Step 1]. We show far fewer jobs on purpose [Team decision: Reduce]. Nothing appears because an employer paid for it [Team decision: Eliminate].
 
 ## Core flow
 
-A student says what they are looking for, we return a short list of verified openings with a reason for each, the student marks what does not fit, and the list improves [Team decision: specs/roadmap.md step 1].
+A student says what they are looking for, we return a short list of verified openings with a reason for each, the student marks what does not fit, and the list improves [Team decision: specs/roadmap.md steps 1 and 2].
 
 ## Non-goals
 
@@ -24,6 +24,6 @@ A student says what they are looking for, we return a short list of verified ope
 ## Open
 
 - Whether universities will adopt and pay for it [Missing: no careers office contacted yet]
-- Whether verification earns trust, or students simply want fewer bad matches [Missing: survey Q6 and Q7 in progress]
-- Whether students want the entry-level shift view [Missing: survey Q10 in progress, and the spike shows only a reduced version is buildable]
+- Whether verification earns trust, or students simply want fewer bad matches [Missing: survey round 1, n=4, is consistent but too small; the interviews are pending]
+- Whether students want the entry-level shift view [Missing: survey round 1, n=4, is consistent but too small, and the spike shows only a reduced version is buildable]
 - Whether the sharper pain is finding roles or never hearing back [Missing: raised by the Persona rehearsal, added to the interviews]
